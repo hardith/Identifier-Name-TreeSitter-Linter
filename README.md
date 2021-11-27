@@ -32,7 +32,7 @@ Ex:
 python identifier-name-linter.py -g "https://github.com/adaptives/python-examples" -e ".py" -l "python" -o1 "output1/output1.csv" -o2 "output2/output2.csv"
 ```
 
-##Rules
+## Rules
 Below are the set of instructions on how the input is passed.
 * Address of a public GitHub repository
 * File extension, only .py .js .go .rb allowed
