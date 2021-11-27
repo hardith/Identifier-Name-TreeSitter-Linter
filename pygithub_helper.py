@@ -2,7 +2,9 @@ from github import Github
 
 def get_file_contents(github_url,file_extension):
     # using an access token
-    g = Github("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")
+    # token = "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"
+    token = "EnterToken"
+    g = Github(token)
     # https://github.com/darkprinx/break-the-ice-with-python
     # github_URL = "https://github.com/adaptives/python-examples"
     file_content_list = []
