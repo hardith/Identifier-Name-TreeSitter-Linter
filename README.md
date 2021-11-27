@@ -8,8 +8,21 @@ https://code.visualstudio.com/docs/languages/cpp
 
 ```sh
 pip3 install tree_sitter
+pip install PyGithub
 pip3 install pyenchant
 pip3 install word2number
+```
+## Create GitHub Personal Access Token
+In order to use PyGithub a personal access token of minimum permission "public repo" needs to be created and needs to be replaced in the "pygithub_helper.py" file at line 6. To setup the personal access token follow the link https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token
+
+```sh
+token = "EnterToken"
+```
+
+Example:
+```sh
+#this token has been deactivated
+token = "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"
 ```
 
 ## Usage
