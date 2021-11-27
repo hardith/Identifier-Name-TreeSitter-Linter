@@ -8,7 +8,7 @@ https://code.visualstudio.com/docs/languages/cpp
 
 ```sh
 pip3 install tree_sitter
-pip install PyGithub
+pip3 install PyGithub
 pip3 install pyenchant
 pip3 install word2number
 ```
