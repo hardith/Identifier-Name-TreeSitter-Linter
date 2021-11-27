@@ -1,0 +1,1115 @@
+identifier_name,filepath,line_number,start_index,end_index,violation_list
+os,basic_examples/extra_stuff.py,2,7,9,Number of Words;Short Identifier Name
+os,basic_examples/extra_stuff.py,6,3,5,Number of Words;Short Identifier Name
+name,basic_examples/extra_stuff.py,6,6,10,Number of Words;Short Identifier Name
+say_hello,basic_examples/extra_stuff.py,8,4,13,Number of Words
+say_hello,basic_examples/extra_stuff.py,9,6,15,Number of Words
+Employee,basic_examples/extra_stuff.py,12,6,14,Capitalisation Anomaly
+__str__,basic_examples/extra_stuff.py,14,6,13,Consecutive Underscores;External Underscores;Number of Words;Short Identifier Name
+self,basic_examples/extra_stuff.py,14,14,18,Number of Words;Short Identifier Name
+self,basic_examples/extra_stuff.py,15,11,15,Number of Words;Short Identifier Name
+name,basic_examples/extra_stuff.py,15,16,20,Number of Words;Short Identifier Name
+str,basic_examples/extra_stuff.py,15,29,32,Number of Words;Short Identifier Name
+self,basic_examples/extra_stuff.py,15,33,37,Number of Words;Short Identifier Name
+salary,basic_examples/extra_stuff.py,15,38,44,Number of Words;Short Identifier Name
+__init__,basic_examples/extra_stuff.py,17,6,14,Consecutive Underscores;External Underscores;Number of Words;Short Identifier Name
+self,basic_examples/extra_stuff.py,17,15,19,Number of Words;Short Identifier Name
+name,basic_examples/extra_stuff.py,17,21,25,Number of Words;Short Identifier Name
+salary,basic_examples/extra_stuff.py,17,27,33,Number of Words;Short Identifier Name
+self,basic_examples/extra_stuff.py,18,4,8,Number of Words;Short Identifier Name
+name,basic_examples/extra_stuff.py,18,9,13,Number of Words;Short Identifier Name
+name,basic_examples/extra_stuff.py,18,16,20,Number of Words;Short Identifier Name
+self,basic_examples/extra_stuff.py,19,4,8,Number of Words;Short Identifier Name
+salary,basic_examples/extra_stuff.py,19,9,15,Number of Words;Short Identifier Name
+salary,basic_examples/extra_stuff.py,19,18,24,Number of Words;Short Identifier Name
+employees,basic_examples/extra_stuff.py,22,0,9,Number of Words
+employees,basic_examples/extra_stuff.py,23,0,9,Number of Words
+append,basic_examples/extra_stuff.py,23,10,16,Number of Words;Short Identifier Name
+Employee,basic_examples/extra_stuff.py,23,17,25,Capitalisation Anomaly
+employees,basic_examples/extra_stuff.py,24,0,9,Number of Words
+append,basic_examples/extra_stuff.py,24,10,16,Number of Words;Short Identifier Name
+Employee,basic_examples/extra_stuff.py,24,17,25,Capitalisation Anomaly
+employees,basic_examples/extra_stuff.py,25,0,9,Number of Words
+append,basic_examples/extra_stuff.py,25,10,16,Number of Words;Short Identifier Name
+Employee,basic_examples/extra_stuff.py,25,17,25,Capitalisation Anomaly
+sal_more_than_40k,basic_examples/extra_stuff.py,29,0,17,Number of Words
+e,basic_examples/extra_stuff.py,29,21,22,Number of Words
+e,basic_examples/extra_stuff.py,29,27,28,Number of Words
+employees,basic_examples/extra_stuff.py,29,32,41,Number of Words
+e,basic_examples/extra_stuff.py,29,45,46,Number of Words
+salary,basic_examples/extra_stuff.py,29,47,53,Number of Words;Short Identifier Name
+str,basic_examples/extra_stuff.py,30,19,22,Number of Words;Short Identifier Name
+len,basic_examples/extra_stuff.py,30,23,26,Number of Words;Short Identifier Name
+sal_more_than_40k,basic_examples/extra_stuff.py,30,27,44,Number of Words
+emp,basic_examples/extra_stuff.py,31,4,7,Number of Words;Short Identifier Name
+sal_more_than_40k,basic_examples/extra_stuff.py,31,11,28,Number of Words
+emp,basic_examples/extra_stuff.py,32,8,11,Number of Words;Short Identifier Name
+sal_more_than_30k,basic_examples/extra_stuff.py,35,0,17,Number of Words
+filter,basic_examples/extra_stuff.py,35,20,26,Number of Words;Short Identifier Name
+e,basic_examples/extra_stuff.py,35,34,35,Number of Words
+e,basic_examples/extra_stuff.py,35,38,39,Number of Words
+salary,basic_examples/extra_stuff.py,35,40,46,Number of Words;Short Identifier Name
+employees,basic_examples/extra_stuff.py,35,56,65,Number of Words
+str,basic_examples/extra_stuff.py,36,19,22,Number of Words;Short Identifier Name
+len,basic_examples/extra_stuff.py,36,23,26,Number of Words;Short Identifier Name
+sal_more_than_30k,basic_examples/extra_stuff.py,36,27,44,Number of Words
+emp,basic_examples/extra_stuff.py,37,4,7,Number of Words;Short Identifier Name
+sal_more_than_30k,basic_examples/extra_stuff.py,37,11,28,Number of Words
+emp,basic_examples/extra_stuff.py,38,8,11,Number of Words;Short Identifier Name
+repr,basic_examples/extra_stuff.py,42,6,10,Number of Words;Short Identifier Name
+sal_more_than_30k,basic_examples/extra_stuff.py,42,11,28,Number of Words
+eval,basic_examples/extra_stuff.py,44,0,4,Number of Words;Short Identifier Name
+repr,basic_examples/extra_stuff.py,44,5,9,Number of Words;Short Identifier Name
+sal_more_than_30k,basic_examples/extra_stuff.py,44,10,27,Number of Words
+sayHello,basic_examples/my_module.py,0,4,12,Short Identifier Name
+__name__,basic_examples/my_module.py,3,17,25,Consecutive Underscores;External Underscores;Number of Words;Short Identifier Name
+num,basic_examples/python_booleans.py,3,0,3,Number of Words;Short Identifier Name
+num,basic_examples/python_booleans.py,4,3,6,Number of Words;Short Identifier Name
+num,basic_examples/python_booleans.py,5,10,13,Number of Words;Short Identifier Name
+num,basic_examples/python_booleans.py,7,10,13,Number of Words;Short Identifier Name
+What,basic_examples/python_booleans.py,10,7,11,Capitalisation Anomaly
+we,basic_examples/python_booleans.py,10,12,14,Number of Words;Short Identifier Name
+just,basic_examples/python_booleans.py,10,15,19,Number of Words;Short Identifier Name
+saw,basic_examples/python_booleans.py,10,20,23,Number of Words;Short Identifier Name
+are,basic_examples/python_booleans.py,10,24,27,Number of Words;Short Identifier Name
+conditional,basic_examples/python_booleans.py,10,28,39,Number of Words
+statements,basic_examples/python_booleans.py,10,40,50,Number of Words
+print,basic_examples/python_booleans.py,11,0,5,Number of Words;Short Identifier Name
+age,basic_examples/python_control.py,2,0,3,Number of Words;Short Identifier Name
+int,basic_examples/python_control.py,2,6,9,Number of Words;Short Identifier Name
+raw_input,basic_examples/python_control.py,2,10,19,Number of Words
+age,basic_examples/python_control.py,4,3,6,Number of Words;Short Identifier Name
+age,basic_examples/python_control.py,6,5,8,Number of Words;Short Identifier Name
+age,basic_examples/python_control.py,6,18,21,Number of Words;Short Identifier Name
+age,basic_examples/python_control.py,8,5,8,Number of Words;Short Identifier Name
+age,basic_examples/python_control.py,8,19,22,Number of Words;Short Identifier Name
+age,basic_examples/python_control.py,10,5,8,Number of Words;Short Identifier Name
+age,basic_examples/python_control.py,10,19,22,Number of Words;Short Identifier Name
+number,basic_examples/python_control.py,18,0,6,Number of Words;Short Identifier Name
+age,basic_examples/python_control.py,18,9,12,Number of Words;Short Identifier Name
+fact,basic_examples/python_control.py,19,0,4,Number of Words;Short Identifier Name
+st,basic_examples/python_control.py,20,0,2,Number of Words;Short Identifier Name
+age,basic_examples/python_control.py,21,6,9,Number of Words;Short Identifier Name
+fact,basic_examples/python_control.py,22,2,6,Number of Words;Short Identifier Name
+fact,basic_examples/python_control.py,22,9,13,Number of Words;Short Identifier Name
+age,basic_examples/python_control.py,22,16,19,Number of Words;Short Identifier Name
+age,basic_examples/python_control.py,23,2,5,Number of Words;Short Identifier Name
+age,basic_examples/python_control.py,23,8,11,Number of Words;Short Identifier Name
+fact,basic_examples/python_control.py,26,36,40,Number of Words;Short Identifier Name
+i,basic_examples/python_control.py,31,4,5,Number of Words
+range,basic_examples/python_control.py,31,9,14,Number of Words;Short Identifier Name
+i,basic_examples/python_control.py,32,8,9,Number of Words
+i,basic_examples/python_control.py,36,4,5,Number of Words
+range,basic_examples/python_control.py,36,9,14,Number of Words;Short Identifier Name
+i,basic_examples/python_control.py,37,8,9,Number of Words
+num,basic_examples/python_conversions.py,3,0,3,Number of Words;Short Identifier Name
+eight,basic_examples/python_conversions.py,5,0,5,Number of Words;Numeric Identifier Name;Short Identifier Name
+str,basic_examples/python_conversions.py,5,8,11,Number of Words;Short Identifier Name
+num,basic_examples/python_conversions.py,5,12,15,Number of Words;Short Identifier Name
+type,basic_examples/python_conversions.py,6,27,31,Number of Words;Short Identifier Name
+eight,basic_examples/python_conversions.py,6,32,37,Number of Words;Numeric Identifier Name;Short Identifier Name
+num8,basic_examples/python_conversions.py,9,0,4,Number of Words;Short Identifier Name
+int,basic_examples/python_conversions.py,9,7,10,Number of Words;Short Identifier Name
+eight,basic_examples/python_conversions.py,9,11,16,Number of Words;Numeric Identifier Name;Short Identifier Name
+type,basic_examples/python_conversions.py,10,26,30,Number of Words;Short Identifier Name
+num8,basic_examples/python_conversions.py,10,31,35,Number of Words;Short Identifier Name
+t,basic_examples/python_conversions.py,12,0,1,Number of Words
+strt,basic_examples/python_conversions.py,13,0,4,Number of Words;Short Identifier Name
+str,basic_examples/python_conversions.py,13,7,10,Number of Words;Short Identifier Name
+t,basic_examples/python_conversions.py,13,11,12,Number of Words
+type,basic_examples/python_conversions.py,14,26,30,Number of Words;Short Identifier Name
+strt,basic_examples/python_conversions.py,14,31,35,Number of Words;Short Identifier Name
+phonebook,basic_examples/python_dictionary.py,7,0,9,Number of Words
+phonebook,basic_examples/python_dictionary.py,10,6,15,Number of Words
+phonebook,basic_examples/python_dictionary.py,12,0,9,Number of Words
+phonebook,basic_examples/python_dictionary.py,15,0,9,Number of Words
+phonebook,basic_examples/python_dictionary.py,17,6,15,Number of Words
+k,basic_examples/python_dictionary.py,20,4,5,Number of Words
+phonebook,basic_examples/python_dictionary.py,20,9,18,Number of Words
+keys,basic_examples/python_dictionary.py,20,19,23,Number of Words;Short Identifier Name
+k,basic_examples/python_dictionary.py,21,9,10,Number of Words
+phonebook,basic_examples/python_dictionary.py,21,12,21,Number of Words
+k,basic_examples/python_dictionary.py,21,22,23,Number of Words
+phonebook,basic_examples/python_dictionary.py,24,4,13,Number of Words
+k,basic_examples/python_dictionary.py,27,4,5,Number of Words
+v,basic_examples/python_dictionary.py,27,7,8,Number of Words;Short Identifier Name
+phonebook,basic_examples/python_dictionary.py,27,12,21,Number of Words
+items,basic_examples/python_dictionary.py,27,22,27,Number of Words;Short Identifier Name
+k,basic_examples/python_dictionary.py,28,9,10,Number of Words
+v,basic_examples/python_dictionary.py,28,12,13,Number of Words;Short Identifier Name
+MyMethodNotImplementedError,basic_examples/python_exceptions.py,2,6,33,Capitalisation Anomaly
+Exception,basic_examples/python_exceptions.py,2,34,43,Capitalisation Anomaly
+__init__,basic_examples/python_exceptions.py,3,6,14,Consecutive Underscores;External Underscores;Number of Words;Short Identifier Name
+self,basic_examples/python_exceptions.py,3,15,19,Number of Words;Short Identifier Name
+Exception,basic_examples/python_exceptions.py,4,4,13,Capitalisation Anomaly
+__init__,basic_examples/python_exceptions.py,4,14,22,Consecutive Underscores;External Underscores;Number of Words;Short Identifier Name
+self,basic_examples/python_exceptions.py,4,23,27,Number of Words;Short Identifier Name
+some_method,basic_examples/python_exceptions.py,9,4,15,Number of Words
+NotImplementedError,basic_examples/python_exceptions.py,10,8,27,Capitalisation Anomaly
+another_method,basic_examples/python_exceptions.py,12,4,18,Number of Words
+MyMethodNotImplementedError,basic_examples/python_exceptions.py,13,8,35,Capitalisation Anomaly
+some_method,basic_examples/python_exceptions.py,16,2,13,Number of Words
+NotImplementedError,basic_examples/python_exceptions.py,17,7,26,Capitalisation Anomaly
+e,basic_examples/python_exceptions.py,17,28,29,Number of Words
+e,basic_examples/python_exceptions.py,18,38,39,Number of Words
+another_method,basic_examples/python_exceptions.py,20,0,14,Number of Words
+os,basic_examples/python_files.py,2,7,9,Number of Words;Short Identifier Name
+read_file,basic_examples/python_files.py,4,4,13,Number of Words
+name,basic_examples/python_files.py,4,14,18,Number of Words;Short Identifier Name
+name,basic_examples/python_files.py,5,39,43,Number of Words;Short Identifier Name
+f,basic_examples/python_files.py,6,2,3,Number of Words;Short Identifier Name
+f,basic_examples/python_files.py,10,4,5,Number of Words;Short Identifier Name
+file,basic_examples/python_files.py,10,8,12,Number of Words;Short Identifier Name
+name,basic_examples/python_files.py,10,13,17,Number of Words;Short Identifier Name
+line,basic_examples/python_files.py,11,4,8,Number of Words;Short Identifier Name
+f,basic_examples/python_files.py,11,11,12,Number of Words;Short Identifier Name
+readline,basic_examples/python_files.py,11,13,21,Number of Words;Short Identifier Name
+len,basic_examples/python_files.py,12,10,13,Number of Words;Short Identifier Name
+line,basic_examples/python_files.py,12,14,18,Number of Words;Short Identifier Name
+line,basic_examples/python_files.py,13,12,16,Number of Words;Short Identifier Name
+line,basic_examples/python_files.py,14,6,10,Number of Words;Short Identifier Name
+f,basic_examples/python_files.py,14,13,14,Number of Words;Short Identifier Name
+readline,basic_examples/python_files.py,14,15,23,Number of Words;Short Identifier Name
+f,basic_examples/python_files.py,16,7,8,Number of Words;Short Identifier Name
+f,basic_examples/python_files.py,17,6,7,Number of Words;Short Identifier Name
+close,basic_examples/python_files.py,17,8,13,Number of Words;Short Identifier Name
+create_module,basic_examples/python_files.py,19,4,17,Number of Words
+name,basic_examples/python_files.py,19,18,22,Number of Words;Short Identifier Name
+name,basic_examples/python_files.py,20,29,33,Number of Words;Short Identifier Name
+f,basic_examples/python_files.py,21,2,3,Number of Words;Short Identifier Name
+f,basic_examples/python_files.py,25,4,5,Number of Words;Short Identifier Name
+file,basic_examples/python_files.py,25,8,12,Number of Words;Short Identifier Name
+name,basic_examples/python_files.py,25,13,17,Number of Words;Short Identifier Name
+f,basic_examples/python_files.py,28,4,5,Number of Words;Short Identifier Name
+write,basic_examples/python_files.py,28,6,11,Number of Words;Short Identifier Name
+f,basic_examples/python_files.py,29,4,5,Number of Words;Short Identifier Name
+write,basic_examples/python_files.py,29,6,11,Number of Words;Short Identifier Name
+name,basic_examples/python_files.py,29,30,34,Number of Words;Short Identifier Name
+f,basic_examples/python_files.py,30,4,5,Number of Words;Short Identifier Name
+write,basic_examples/python_files.py,30,6,11,Number of Words;Short Identifier Name
+f,basic_examples/python_files.py,31,4,5,Number of Words;Short Identifier Name
+write,basic_examples/python_files.py,31,6,11,Number of Words;Short Identifier Name
+f,basic_examples/python_files.py,32,4,5,Number of Words;Short Identifier Name
+write,basic_examples/python_files.py,32,6,11,Number of Words;Short Identifier Name
+f,basic_examples/python_files.py,33,4,5,Number of Words;Short Identifier Name
+write,basic_examples/python_files.py,33,6,11,Number of Words;Short Identifier Name
+f,basic_examples/python_files.py,34,4,5,Number of Words;Short Identifier Name
+write,basic_examples/python_files.py,34,6,11,Number of Words;Short Identifier Name
+f,basic_examples/python_files.py,35,4,5,Number of Words;Short Identifier Name
+write,basic_examples/python_files.py,35,6,11,Number of Words;Short Identifier Name
+f,basic_examples/python_files.py,37,7,8,Number of Words;Short Identifier Name
+f,basic_examples/python_files.py,38,6,7,Number of Words;Short Identifier Name
+close,basic_examples/python_files.py,38,8,13,Number of Words;Short Identifier Name
+name,basic_examples/python_files.py,40,0,4,Number of Words;Short Identifier Name
+create_module,basic_examples/python_files.py,44,2,15,Number of Words
+read_file,basic_examples/python_files.py,45,2,11,Number of Words
+name,basic_examples/python_files.py,45,12,16,Number of Words;Short Identifier Name
+os,basic_examples/python_files.py,47,2,4,Number of Words;Short Identifier Name
+remove,basic_examples/python_files.py,47,5,11,Number of Words;Short Identifier Name
+name,basic_examples/python_files.py,47,12,16,Number of Words;Short Identifier Name
+Exception,basic_examples/python_files.py,48,7,16,Capitalisation Anomaly
+e,basic_examples/python_files.py,48,18,19,Number of Words
+e,basic_examples/python_files.py,49,45,46,Number of Words
+max_val,basic_examples/python_functions.py,8,4,11,Number of Words;Short Identifier Name
+a,basic_examples/python_functions.py,8,12,13,Number of Words;Short Identifier Name
+b,basic_examples/python_functions.py,8,14,15,Number of Words;Short Identifier Name
+a,basic_examples/python_functions.py,16,5,6,Number of Words;Short Identifier Name
+b,basic_examples/python_functions.py,16,9,10,Number of Words;Short Identifier Name
+a,basic_examples/python_functions.py,17,11,12,Number of Words;Short Identifier Name
+b,basic_examples/python_functions.py,18,7,8,Number of Words;Short Identifier Name
+a,basic_examples/python_functions.py,18,11,12,Number of Words;Short Identifier Name
+b,basic_examples/python_functions.py,19,11,12,Number of Words;Short Identifier Name
+a,basic_examples/python_functions.py,21,11,12,Number of Words;Short Identifier Name
+min_val,basic_examples/python_functions.py,23,4,11,Number of Words;Short Identifier Name
+a,basic_examples/python_functions.py,23,12,13,Number of Words;Short Identifier Name
+b,basic_examples/python_functions.py,23,14,15,Number of Words;Short Identifier Name
+a,basic_examples/python_functions.py,31,5,6,Number of Words;Short Identifier Name
+b,basic_examples/python_functions.py,31,9,10,Number of Words;Short Identifier Name
+a,basic_examples/python_functions.py,32,11,12,Number of Words;Short Identifier Name
+b,basic_examples/python_functions.py,33,7,8,Number of Words;Short Identifier Name
+a,basic_examples/python_functions.py,33,11,12,Number of Words;Short Identifier Name
+b,basic_examples/python_functions.py,34,11,12,Number of Words;Short Identifier Name
+a,basic_examples/python_functions.py,36,11,12,Number of Words;Short Identifier Name
+print_usage,basic_examples/python_functions.py,38,4,15,Number of Words
+init_msg,basic_examples/python_functions.py,38,16,24,Number of Words;Short Identifier Name
+max_val,basic_examples/python_functions.py,38,26,33,Number of Words;Short Identifier Name
+min_val,basic_examples/python_functions.py,38,40,47,Number of Words;Short Identifier Name
+init_msg,basic_examples/python_functions.py,40,8,16,Number of Words;Short Identifier Name
+max_val,basic_examples/python_functions.py,41,5,12,Number of Words;Short Identifier Name
+min_val,basic_examples/python_functions.py,43,5,12,Number of Words;Short Identifier Name
+max_val,basic_examples/python_functions.py,48,6,13,Number of Words;Short Identifier Name
+__doc__,basic_examples/python_functions.py,48,14,21,Consecutive Underscores;External Underscores;Number of Words;Short Identifier Name
+max_val,basic_examples/python_functions.py,49,0,7,Number of Words;Short Identifier Name
+max_val,basic_examples/python_functions.py,50,0,7,Number of Words;Short Identifier Name
+b,basic_examples/python_functions.py,50,10,11,Number of Words;Short Identifier Name
+max_val,basic_examples/python_functions.py,51,0,7,Number of Words;Short Identifier Name
+b,basic_examples/python_functions.py,51,8,9,Number of Words;Short Identifier Name
+a,basic_examples/python_functions.py,51,12,13,Number of Words;Short Identifier Name
+min_val,basic_examples/python_functions.py,54,6,13,Number of Words;Short Identifier Name
+__doc__,basic_examples/python_functions.py,54,14,21,Consecutive Underscores;External Underscores;Number of Words;Short Identifier Name
+min_val,basic_examples/python_functions.py,55,0,7,Number of Words;Short Identifier Name
+min_val,basic_examples/python_functions.py,56,0,7,Number of Words;Short Identifier Name
+min_val,basic_examples/python_functions.py,57,0,7,Number of Words;Short Identifier Name
+b,basic_examples/python_functions.py,57,10,11,Number of Words;Short Identifier Name
+print_usage,basic_examples/python_functions.py,59,0,11,Number of Words
+jvm_langs,basic_examples/python_lists.py,2,0,9,Number of Words
+jvm_langs,basic_examples/python_lists.py,5,20,29,Number of Words
+__len__,basic_examples/python_lists.py,5,30,37,Consecutive Underscores;External Underscores;Number of Words;Short Identifier Name
+len,basic_examples/python_lists.py,10,20,23,Number of Words;Short Identifier Name
+jvm_langs,basic_examples/python_lists.py,10,24,33,Number of Words
+jvm_langs,basic_examples/python_lists.py,13,0,9,Number of Words
+append,basic_examples/python_lists.py,13,10,16,Number of Words;Short Identifier Name
+lang,basic_examples/python_lists.py,16,4,8,Number of Words;Short Identifier Name
+jvm_langs,basic_examples/python_lists.py,16,12,21,Number of Words
+lang,basic_examples/python_lists.py,17,8,12,Number of Words;Short Identifier Name
+jvm_langs,basic_examples/python_lists.py,20,34,43,Number of Words
+jvm_langs,basic_examples/python_lists.py,21,40,49,Number of Words
+jvm_langs,basic_examples/python_lists.py,22,43,52,Number of Words
+jvm_langs,basic_examples/python_lists.py,25,0,9,Number of Words
+sort,basic_examples/python_lists.py,25,10,14,Number of Words;Short Identifier Name
+jvm_langs,basic_examples/python_lists.py,26,6,15,Number of Words
+i,basic_examples/python_logical_lines.py,1,0,1,Number of Words
+i,basic_examples/python_logical_lines.py,2,6,7,Number of Words
+i,basic_examples/python_logical_lines.py,5,0,1,Number of Words
+j,basic_examples/python_logical_lines.py,5,7,8,Number of Words
+i,basic_examples/python_logical_lines.py,6,6,7,Number of Words
+j,basic_examples/python_logical_lines.py,6,10,11,Number of Words
+sys,basic_examples/python_modules.py,2,7,10,Number of Words;Short Identifier Name
+my_module,basic_examples/python_modules.py,3,7,16,Number of Words
+sys,basic_examples/python_modules.py,6,40,43,Number of Words;Short Identifier Name
+argv,basic_examples/python_modules.py,6,44,48,Number of Words;Short Identifier Name
+sys,basic_examples/python_modules.py,8,28,31,Number of Words;Short Identifier Name
+path,basic_examples/python_modules.py,8,32,36,Number of Words;Short Identifier Name
+my_module,basic_examples/python_modules.py,11,0,9,Number of Words
+sayHello,basic_examples/python_modules.py,11,10,18,Short Identifier Name
+num,basic_examples/python_numbers.py,4,0,3,Number of Words;Short Identifier Name
+num,basic_examples/python_numbers.py,5,73,76,Number of Words;Short Identifier Name
+num,basic_examples/python_numbers.py,7,32,35,Number of Words;Short Identifier Name
+num,basic_examples/python_numbers.py,8,34,37,Number of Words;Short Identifier Name
+num,basic_examples/python_numbers.py,15,0,3,Number of Words;Short Identifier Name
+num,basic_examples/python_numbers.py,16,20,23,Number of Words;Short Identifier Name
+max64BitInt,basic_examples/python_numbers.py,25,0,11,Dictionary Words;Naming Convention Anomoly
+bigNum,basic_examples/python_numbers.py,26,0,6,Dictionary Words;Short Identifier Name
+max64BitInt,basic_examples/python_numbers.py,26,9,20,Dictionary Words;Naming Convention Anomoly
+bigNum,basic_examples/python_numbers.py,27,31,37,Dictionary Words;Short Identifier Name
+InvoiceItem,basic_examples/python_objects.py,2,6,17,Capitalisation Anomaly
+__str__,basic_examples/python_objects.py,4,6,13,Consecutive Underscores;External Underscores;Number of Words;Short Identifier Name
+self,basic_examples/python_objects.py,4,14,18,Number of Words;Short Identifier Name
+self,basic_examples/python_objects.py,5,11,15,Number of Words;Short Identifier Name
+text,basic_examples/python_objects.py,5,16,20,Number of Words;Short Identifier Name
+str,basic_examples/python_objects.py,5,29,32,Number of Words;Short Identifier Name
+self,basic_examples/python_objects.py,5,33,37,Number of Words;Short Identifier Name
+amt,basic_examples/python_objects.py,5,38,41,Number of Words;Short Identifier Name
+__init__,basic_examples/python_objects.py,7,6,14,Consecutive Underscores;External Underscores;Number of Words;Short Identifier Name
+self,basic_examples/python_objects.py,7,15,19,Number of Words;Short Identifier Name
+kwargs,basic_examples/python_objects.py,7,23,29,Number of Words;Short Identifier Name
+self,basic_examples/python_objects.py,8,4,8,Number of Words;Short Identifier Name
+text,basic_examples/python_objects.py,8,9,13,Number of Words;Short Identifier Name
+self,basic_examples/python_objects.py,9,4,8,Number of Words;Short Identifier Name
+amt,basic_examples/python_objects.py,9,9,12,Number of Words;Short Identifier Name
+kwargs,basic_examples/python_objects.py,10,7,13,Number of Words;Short Identifier Name
+self,basic_examples/python_objects.py,11,6,10,Number of Words;Short Identifier Name
+text,basic_examples/python_objects.py,11,11,15,Number of Words;Short Identifier Name
+kwargs,basic_examples/python_objects.py,11,18,24,Number of Words;Short Identifier Name
+kwargs,basic_examples/python_objects.py,12,7,13,Number of Words;Short Identifier Name
+self,basic_examples/python_objects.py,13,6,10,Number of Words;Short Identifier Name
+amt,basic_examples/python_objects.py,13,11,14,Number of Words;Short Identifier Name
+kwargs,basic_examples/python_objects.py,13,17,23,Number of Words;Short Identifier Name
+Invoice,basic_examples/python_objects.py,15,6,13,Capitalisation Anomaly
+my_company_name,basic_examples/python_objects.py,17,2,17,Number of Words
+staticmethod,basic_examples/python_objects.py,20,3,15,Number of Words
+get_service_tax_per,basic_examples/python_objects.py,21,6,25,Number of Words
+__str__,basic_examples/python_objects.py,25,6,13,Consecutive Underscores;External Underscores;Number of Words;Short Identifier Name
+self,basic_examples/python_objects.py,25,14,18,Number of Words;Short Identifier Name
+self,basic_examples/python_objects.py,26,11,15,Number of Words;Short Identifier Name
+number,basic_examples/python_objects.py,26,16,22,Number of Words;Short Identifier Name
+str,basic_examples/python_objects.py,26,31,34,Number of Words;Short Identifier Name
+self,basic_examples/python_objects.py,26,35,39,Number of Words;Short Identifier Name
+amt,basic_examples/python_objects.py,26,40,43,Number of Words;Short Identifier Name
+__init__,basic_examples/python_objects.py,28,6,14,Consecutive Underscores;External Underscores;Number of Words;Short Identifier Name
+self,basic_examples/python_objects.py,28,15,19,Number of Words;Short Identifier Name
+kwargs,basic_examples/python_objects.py,28,23,29,Number of Words;Short Identifier Name
+self,basic_examples/python_objects.py,29,4,8,Number of Words;Short Identifier Name
+number,basic_examples/python_objects.py,29,9,15,Number of Words;Short Identifier Name
+self,basic_examples/python_objects.py,30,4,8,Number of Words;Short Identifier Name
+client,basic_examples/python_objects.py,30,9,15,Number of Words;Short Identifier Name
+self,basic_examples/python_objects.py,31,4,8,Number of Words;Short Identifier Name
+date,basic_examples/python_objects.py,31,9,13,Number of Words;Short Identifier Name
+self,basic_examples/python_objects.py,32,4,8,Number of Words;Short Identifier Name
+invoice_items,basic_examples/python_objects.py,32,9,22,Number of Words
+add_invoice_item,basic_examples/python_objects.py,34,6,22,Number of Words
+self,basic_examples/python_objects.py,34,23,27,Number of Words;Short Identifier Name
+invoice_entry,basic_examples/python_objects.py,34,29,42,Number of Words
+self,basic_examples/python_objects.py,35,4,8,Number of Words;Short Identifier Name
+invoice_items,basic_examples/python_objects.py,35,9,22,Number of Words
+append,basic_examples/python_objects.py,35,23,29,Number of Words;Short Identifier Name
+invoice_entry,basic_examples/python_objects.py,35,30,43,Number of Words
+amt,basic_examples/python_objects.py,37,6,9,Number of Words;Short Identifier Name
+self,basic_examples/python_objects.py,37,10,14,Number of Words;Short Identifier Name
+amt,basic_examples/python_objects.py,38,4,7,Number of Words;Short Identifier Name
+item,basic_examples/python_objects.py,39,8,12,Number of Words;Short Identifier Name
+self,basic_examples/python_objects.py,39,16,20,Number of Words;Short Identifier Name
+invoice_items,basic_examples/python_objects.py,39,21,34,Number of Words
+amt,basic_examples/python_objects.py,40,6,9,Number of Words;Short Identifier Name
+amt,basic_examples/python_objects.py,40,12,15,Number of Words;Short Identifier Name
+item,basic_examples/python_objects.py,40,18,22,Number of Words;Short Identifier Name
+amt,basic_examples/python_objects.py,40,23,26,Number of Words;Short Identifier Name
+amt,basic_examples/python_objects.py,41,11,14,Number of Words;Short Identifier Name
+invoice,basic_examples/python_objects.py,43,0,7,Number of Words;Short Identifier Name
+Invoice,basic_examples/python_objects.py,43,10,17,Capitalisation Anomaly
+invoice,basic_examples/python_objects.py,44,0,7,Number of Words;Short Identifier Name
+number,basic_examples/python_objects.py,44,8,14,Number of Words;Short Identifier Name
+invoice,basic_examples/python_objects.py,45,0,7,Number of Words;Short Identifier Name
+client,basic_examples/python_objects.py,45,8,14,Number of Words;Short Identifier Name
+invoice,basic_examples/python_objects.py,46,0,7,Number of Words;Short Identifier Name
+date,basic_examples/python_objects.py,46,8,12,Number of Words;Short Identifier Name
+invoice_item,basic_examples/python_objects.py,48,0,12,Number of Words
+InvoiceItem,basic_examples/python_objects.py,48,15,26,Capitalisation Anomaly
+text,basic_examples/python_objects.py,48,27,31,Number of Words;Short Identifier Name
+amt,basic_examples/python_objects.py,48,52,55,Number of Words;Short Identifier Name
+invoice,basic_examples/python_objects.py,49,0,7,Number of Words;Short Identifier Name
+add_invoice_item,basic_examples/python_objects.py,49,8,24,Number of Words
+invoice_item,basic_examples/python_objects.py,49,25,37,Number of Words
+invoice,basic_examples/python_objects.py,51,6,13,Number of Words;Short Identifier Name
+os,basic_examples/python_os_module.py,6,7,9,Number of Words;Short Identifier Name
+os,basic_examples/python_os_module.py,8,33,35,Number of Words;Short Identifier Name
+name,basic_examples/python_os_module.py,8,36,40,Number of Words;Short Identifier Name
+os,basic_examples/python_os_module.py,9,25,27,Number of Words;Short Identifier Name
+getlogin,basic_examples/python_os_module.py,9,28,36,Number of Words;Short Identifier Name
+os,basic_examples/python_os_module.py,10,45,47,Number of Words;Short Identifier Name
+getcwd,basic_examples/python_os_module.py,10,48,54,Number of Words;Short Identifier Name
+os,basic_examples/python_os_module.py,11,31,33,Number of Words;Short Identifier Name
+getenv,basic_examples/python_os_module.py,11,34,40,Number of Words;Short Identifier Name
+sys,basic_examples/python_read.py,1,5,8,Number of Words;Short Identifier Name
+argv,basic_examples/python_read.py,1,16,20,Number of Words;Short Identifier Name
+script,basic_examples/python_read.py,3,0,6,Number of Words;Short Identifier Name
+filename,basic_examples/python_read.py,3,8,16,Number of Words;Short Identifier Name
+argv,basic_examples/python_read.py,3,19,23,Number of Words;Short Identifier Name
+fp,basic_examples/python_read.py,4,0,2,Number of Words;Short Identifier Name
+open,basic_examples/python_read.py,4,5,9,Number of Words;Short Identifier Name
+filename,basic_examples/python_read.py,4,10,18,Number of Words;Short Identifier Name
+fp,basic_examples/python_read.py,5,27,29,Number of Words;Short Identifier Name
+fp,basic_examples/python_read.py,6,6,8,Number of Words;Short Identifier Name
+read,basic_examples/python_read.py,6,9,13,Number of Words;Short Identifier Name
+fp,basic_examples/python_read.py,7,0,2,Number of Words;Short Identifier Name
+close,basic_examples/python_read.py,7,3,8,Number of Words;Short Identifier Name
+jvm_langs,basic_examples/python_sequences.py,6,0,9,Number of Words
+jvm_langs,basic_examples/python_sequences.py,7,37,46,Number of Words
+jvm_langs,basic_examples/python_sequences.py,10,49,58,Number of Words
+jvm_langs,basic_examples/python_sequences.py,11,39,48,Number of Words
+jvm_langs,basic_examples/python_sequences.py,12,40,49,Number of Words
+name,basic_examples/python_sequences.py,14,0,4,Number of Words;Short Identifier Name
+name,basic_examples/python_sequences.py,15,28,32,Number of Words;Short Identifier Name
+add_all,basic_examples/python_star_args_and_kwargs.py,2,4,11,Number of Words;Short Identifier Name
+list_of_nums,basic_examples/python_star_args_and_kwargs.py,2,13,25,Number of Words
+sum,basic_examples/python_star_args_and_kwargs.py,3,2,5,Number of Words;Short Identifier Name
+num,basic_examples/python_star_args_and_kwargs.py,4,6,9,Number of Words;Short Identifier Name
+list_of_nums,basic_examples/python_star_args_and_kwargs.py,4,13,25,Number of Words
+sum,basic_examples/python_star_args_and_kwargs.py,5,4,7,Number of Words;Short Identifier Name
+sum,basic_examples/python_star_args_and_kwargs.py,5,10,13,Number of Words;Short Identifier Name
+num,basic_examples/python_star_args_and_kwargs.py,5,16,19,Number of Words;Short Identifier Name
+join,basic_examples/python_star_args_and_kwargs.py,6,22,26,Number of Words;Short Identifier Name
+str,basic_examples/python_star_args_and_kwargs.py,6,27,30,Number of Words;Short Identifier Name
+n,basic_examples/python_star_args_and_kwargs.py,6,31,32,Number of Words
+n,basic_examples/python_star_args_and_kwargs.py,6,38,39,Number of Words
+list_of_nums,basic_examples/python_star_args_and_kwargs.py,6,43,55,Number of Words
+sum,basic_examples/python_star_args_and_kwargs.py,6,65,68,Number of Words;Short Identifier Name
+add_all,basic_examples/python_star_args_and_kwargs.py,8,0,7,Number of Words;Short Identifier Name
+nums,basic_examples/python_star_args_and_kwargs.py,10,0,4,Number of Words;Short Identifier Name
+add_all,basic_examples/python_star_args_and_kwargs.py,11,0,7,Number of Words;Short Identifier Name
+nums,basic_examples/python_star_args_and_kwargs.py,11,9,13,Number of Words;Short Identifier Name
+nums,basic_examples/python_star_args_and_kwargs.py,13,0,4,Number of Words;Short Identifier Name
+add_all,basic_examples/python_star_args_and_kwargs.py,14,0,7,Number of Words;Short Identifier Name
+nums,basic_examples/python_star_args_and_kwargs.py,14,9,13,Number of Words;Short Identifier Name
+add_all_msg,basic_examples/python_star_args_and_kwargs.py,16,4,15,Number of Words
+args,basic_examples/python_star_args_and_kwargs.py,16,17,21,Number of Words;Short Identifier Name
+kwargs,basic_examples/python_star_args_and_kwargs.py,16,25,31,Number of Words;Short Identifier Name
+kwargs,basic_examples/python_star_args_and_kwargs.py,17,8,14,Number of Words;Short Identifier Name
+add_all,basic_examples/python_star_args_and_kwargs.py,18,2,9,Number of Words;Short Identifier Name
+args,basic_examples/python_star_args_and_kwargs.py,18,11,15,Number of Words;Short Identifier Name
+kwargs,basic_examples/python_star_args_and_kwargs.py,19,8,14,Number of Words;Short Identifier Name
+add_all_msg,basic_examples/python_star_args_and_kwargs.py,21,0,11,Number of Words
+before,basic_examples/python_star_args_and_kwargs.py,21,18,24,Number of Words;Short Identifier Name
+after,basic_examples/python_star_args_and_kwargs.py,21,43,48,Number of Words;Short Identifier Name
+string,basic_examples/python_string_interpolation.py,2,5,11,Number of Words;Short Identifier Name
+Template,basic_examples/python_string_interpolation.py,2,19,27,Capitalisation Anomaly
+greeting,basic_examples/python_string_interpolation.py,4,0,8,Number of Words;Short Identifier Name
+name,basic_examples/python_string_interpolation.py,5,0,4,Number of Words;Short Identifier Name
+print,basic_examples/python_string_interpolation.py,7,0,5,Number of Words;Short Identifier Name
+greeting,basic_examples/python_string_interpolation.py,7,29,37,Number of Words;Short Identifier Name
+name,basic_examples/python_string_interpolation.py,7,39,43,Number of Words;Short Identifier Name
+locals,basic_examples/python_string_interpolation.py,9,45,51,Number of Words;Short Identifier Name
+Template,basic_examples/python_string_interpolation.py,11,6,14,Capitalisation Anomaly
+substitute,basic_examples/python_string_interpolation.py,11,47,57,Number of Words
+locals,basic_examples/python_string_interpolation.py,11,58,64,Number of Words;Short Identifier Name
+greeting,basic_examples/python_strings.py,35,0,8,Number of Words;Short Identifier Name
+greeting,basic_examples/python_strings.py,36,32,40,Number of Words;Short Identifier Name
+len,basic_examples/python_strings.py,36,51,54,Number of Words;Short Identifier Name
+greeting,basic_examples/python_strings.py,36,55,63,Number of Words;Short Identifier Name
+greeting,basic_examples/python_strings.py,39,14,22,Number of Words;Short Identifier Name
+greeting,basic_examples/python_strings.py,42,3,11,Number of Words;Short Identifier Name
+find,basic_examples/python_strings.py,42,12,16,Number of Words;Short Identifier Name
+jvm_langs,basic_examples/python_tuples.py,4,0,9,Number of Words
+jvm_langs,basic_examples/python_tuples.py,5,6,15,Number of Words
+jvm_langs_revised,basic_examples/python_tuples.py,9,0,17,Number of Words
+jvm_langs,basic_examples/python_tuples.py,9,51,60,Number of Words
+jvm_langs_revised,basic_examples/python_tuples.py,11,6,23,Number of Words
+sys,basic_examples/python_write.py,1,5,8,Number of Words;Short Identifier Name
+argv,basic_examples/python_write.py,1,16,20,Number of Words;Short Identifier Name
+script,basic_examples/python_write.py,3,0,6,Number of Words;Short Identifier Name
+filename,basic_examples/python_write.py,3,8,16,Number of Words;Short Identifier Name
+argv,basic_examples/python_write.py,3,19,23,Number of Words;Short Identifier Name
+fp,basic_examples/python_write.py,4,0,2,Number of Words;Short Identifier Name
+open,basic_examples/python_write.py,4,5,9,Number of Words;Short Identifier Name
+filename,basic_examples/python_write.py,4,10,18,Number of Words;Short Identifier Name
+fp,basic_examples/python_write.py,5,30,32,Number of Words;Short Identifier Name
+fp,basic_examples/python_write.py,6,0,2,Number of Words;Short Identifier Name
+write,basic_examples/python_write.py,6,3,8,Number of Words;Short Identifier Name
+fp,basic_examples/python_write.py,7,0,2,Number of Words;Short Identifier Name
+close,basic_examples/python_write.py,7,3,8,Number of Words;Short Identifier Name
+os,mini_projects/adaptive_backup.py,3,7,9,Number of Words;Short Identifier Name
+time,mini_projects/adaptive_backup.py,4,7,11,Number of Words;Short Identifier Name
+tarfile,mini_projects/adaptive_backup.py,5,7,14,Number of Words;Short Identifier Name
+bk_src,mini_projects/adaptive_backup.py,8,0,6,Number of Words;Short Identifier Name
+bk_dest,mini_projects/adaptive_backup.py,12,0,7,Number of Words;Short Identifier Name
+bk_fn,mini_projects/adaptive_backup.py,14,0,5,Number of Words;Short Identifier Name
+bk_dest,mini_projects/adaptive_backup.py,14,8,15,Number of Words;Short Identifier Name
+time,mini_projects/adaptive_backup.py,14,18,22,Number of Words;Short Identifier Name
+strftime,mini_projects/adaptive_backup.py,14,23,31,Number of Words;Short Identifier Name
+zip_cmd,mini_projects/adaptive_backup.py,15,0,7,Number of Words;Short Identifier Name
+bk_fn,mini_projects/adaptive_backup.py,15,31,36,Number of Words;Short Identifier Name
+join,mini_projects/adaptive_backup.py,15,42,46,Number of Words;Short Identifier Name
+bk_src,mini_projects/adaptive_backup.py,15,47,53,Number of Words;Short Identifier Name
+tar_file,mini_projects/adaptive_backup.py,17,0,8,Number of Words;Short Identifier Name
+tarfile,mini_projects/adaptive_backup.py,17,11,18,Number of Words;Short Identifier Name
+open,mini_projects/adaptive_backup.py,17,19,23,Number of Words;Short Identifier Name
+bk_fn,mini_projects/adaptive_backup.py,17,24,29,Number of Words;Short Identifier Name
+file,mini_projects/adaptive_backup.py,18,4,8,Number of Words;Short Identifier Name
+bk_src,mini_projects/adaptive_backup.py,18,12,18,Number of Words;Short Identifier Name
+tar_file,mini_projects/adaptive_backup.py,19,2,10,Number of Words;Short Identifier Name
+add,mini_projects/adaptive_backup.py,19,11,14,Number of Words;Short Identifier Name
+file,mini_projects/adaptive_backup.py,19,15,19,Number of Words;Short Identifier Name
+tar_file,mini_projects/adaptive_backup.py,20,0,8,Number of Words;Short Identifier Name
+close,mini_projects/adaptive_backup.py,20,9,14,Number of Words;Short Identifier Name
+unittest,tdd/iostubbing/all_tests.py,0,7,15,Number of Words;Short Identifier Name
+test_write_user_details,tdd/iostubbing/all_tests.py,1,7,30,Number of Words
+test_write_user_details_istub,tdd/iostubbing/all_tests.py,2,7,36,Number of Words
+suite1,tdd/iostubbing/all_tests.py,4,0,6,Number of Words;Short Identifier Name
+unittest,tdd/iostubbing/all_tests.py,4,9,17,Number of Words;Short Identifier Name
+TestLoader,tdd/iostubbing/all_tests.py,4,18,28,Capitalisation Anomaly
+loadTestsFromTestCase,tdd/iostubbing/all_tests.py,4,31,52,Excessive Words;Number of Words
+test_write_user_details,tdd/iostubbing/all_tests.py,4,53,76,Number of Words
+TestUserDetails,tdd/iostubbing/all_tests.py,4,77,92,Capitalisation Anomaly
+suite1,tdd/iostubbing/all_tests.py,5,0,6,Number of Words;Short Identifier Name
+addTests,tdd/iostubbing/all_tests.py,5,7,15,Short Identifier Name
+unittest,tdd/iostubbing/all_tests.py,5,16,24,Number of Words;Short Identifier Name
+TestLoader,tdd/iostubbing/all_tests.py,5,25,35,Capitalisation Anomaly
+loadTestsFromTestCase,tdd/iostubbing/all_tests.py,5,38,59,Excessive Words;Number of Words
+test_write_user_details_istub,tdd/iostubbing/all_tests.py,5,60,89,Number of Words
+TestUserDetails,tdd/iostubbing/all_tests.py,5,90,105,Capitalisation Anomaly
+unittest,tdd/iostubbing/all_tests.py,7,0,8,Number of Words;Short Identifier Name
+TextTestRunner,tdd/iostubbing/all_tests.py,7,9,23,Capitalisation Anomaly
+verbosity,tdd/iostubbing/all_tests.py,7,24,33,Number of Words
+run,tdd/iostubbing/all_tests.py,7,37,40,Number of Words;Short Identifier Name
+suite1,tdd/iostubbing/all_tests.py,7,41,47,Number of Words;Short Identifier Name
+unittest,tdd/iostubbing/test_write_user_details.py,0,7,15,Number of Words;Short Identifier Name
+TestUserDetails,tdd/iostubbing/test_write_user_details.py,2,6,21,Capitalisation Anomaly
+unittest,tdd/iostubbing/test_write_user_details.py,2,22,30,Number of Words;Short Identifier Name
+TestCase,tdd/iostubbing/test_write_user_details.py,2,31,39,Capitalisation Anomaly
+setUp,tdd/iostubbing/test_write_user_details.py,4,8,13,Short Identifier Name
+self,tdd/iostubbing/test_write_user_details.py,4,14,18,Number of Words;Short Identifier Name
+super,tdd/iostubbing/test_write_user_details.py,5,8,13,Number of Words;Short Identifier Name
+TestUserDetails,tdd/iostubbing/test_write_user_details.py,5,14,29,Capitalisation Anomaly
+self,tdd/iostubbing/test_write_user_details.py,5,31,35,Number of Words;Short Identifier Name
+setUp,tdd/iostubbing/test_write_user_details.py,5,37,42,Short Identifier Name
+tearDown,tdd/iostubbing/test_write_user_details.py,8,8,16,Short Identifier Name
+self,tdd/iostubbing/test_write_user_details.py,8,17,21,Number of Words;Short Identifier Name
+super,tdd/iostubbing/test_write_user_details.py,9,8,13,Number of Words;Short Identifier Name
+TestUserDetails,tdd/iostubbing/test_write_user_details.py,9,14,29,Capitalisation Anomaly
+self,tdd/iostubbing/test_write_user_details.py,9,31,35,Number of Words;Short Identifier Name
+tearDown,tdd/iostubbing/test_write_user_details.py,9,37,45,Short Identifier Name
+test_output_file_contents,tdd/iostubbing/test_write_user_details.py,12,8,33,Number of Words
+self,tdd/iostubbing/test_write_user_details.py,12,34,38,Number of Words;Short Identifier Name
+fp,tdd/iostubbing/test_write_user_details.py,13,8,10,Number of Words;Short Identifier Name
+open,tdd/iostubbing/test_write_user_details.py,13,13,17,Number of Words;Short Identifier Name
+name,tdd/iostubbing/test_write_user_details.py,14,8,12,Number of Words;Short Identifier Name
+fp,tdd/iostubbing/test_write_user_details.py,14,15,17,Number of Words;Short Identifier Name
+readline,tdd/iostubbing/test_write_user_details.py,14,18,26,Number of Words;Short Identifier Name
+age,tdd/iostubbing/test_write_user_details.py,15,8,11,Number of Words;Short Identifier Name
+fp,tdd/iostubbing/test_write_user_details.py,15,14,16,Number of Words;Short Identifier Name
+readline,tdd/iostubbing/test_write_user_details.py,15,17,25,Number of Words;Short Identifier Name
+city,tdd/iostubbing/test_write_user_details.py,16,8,12,Number of Words;Short Identifier Name
+fp,tdd/iostubbing/test_write_user_details.py,16,15,17,Number of Words;Short Identifier Name
+readline,tdd/iostubbing/test_write_user_details.py,16,18,26,Number of Words;Short Identifier Name
+self,tdd/iostubbing/test_write_user_details.py,17,8,12,Number of Words;Short Identifier Name
+name,tdd/iostubbing/test_write_user_details.py,17,25,29,Number of Words;Short Identifier Name
+len,tdd/iostubbing/test_write_user_details.py,17,32,35,Number of Words;Short Identifier Name
+name,tdd/iostubbing/test_write_user_details.py,17,36,40,Number of Words;Short Identifier Name
+self,tdd/iostubbing/test_write_user_details.py,18,8,12,Number of Words;Short Identifier Name
+age,tdd/iostubbing/test_write_user_details.py,18,25,28,Number of Words;Short Identifier Name
+len,tdd/iostubbing/test_write_user_details.py,18,31,34,Number of Words;Short Identifier Name
+age,tdd/iostubbing/test_write_user_details.py,18,35,38,Number of Words;Short Identifier Name
+self,tdd/iostubbing/test_write_user_details.py,19,8,12,Number of Words;Short Identifier Name
+city,tdd/iostubbing/test_write_user_details.py,19,25,29,Number of Words;Short Identifier Name
+len,tdd/iostubbing/test_write_user_details.py,19,32,35,Number of Words;Short Identifier Name
+city,tdd/iostubbing/test_write_user_details.py,19,36,40,Number of Words;Short Identifier Name
+__name__,tdd/iostubbing/test_write_user_details.py,21,3,11,Consecutive Underscores;External Underscores;Number of Words;Short Identifier Name
+unittest,tdd/iostubbing/test_write_user_details.py,22,4,12,Number of Words;Short Identifier Name
+main,tdd/iostubbing/test_write_user_details.py,22,13,17,Number of Words;Short Identifier Name
+unittest,tdd/iostubbing/test_write_user_details_iostub.py,0,7,15,Number of Words;Short Identifier Name
+write_user_details,tdd/iostubbing/test_write_user_details_iostub.py,1,7,25,Number of Words
+sys,tdd/iostubbing/test_write_user_details_iostub.py,2,7,10,Number of Words;Short Identifier Name
+gen_open_stub,tdd/iostubbing/test_write_user_details_iostub.py,4,4,17,Number of Words
+output_stub,tdd/iostubbing/test_write_user_details_iostub.py,4,18,29,Number of Words
+open,tdd/iostubbing/test_write_user_details_iostub.py,5,8,12,Number of Words;Short Identifier Name
+fpath,tdd/iostubbing/test_write_user_details_iostub.py,5,13,18,Number of Words;Short Identifier Name
+mode,tdd/iostubbing/test_write_user_details_iostub.py,5,20,24,Number of Words;Short Identifier Name
+output_stub,tdd/iostubbing/test_write_user_details_iostub.py,6,15,26,Number of Words
+open,tdd/iostubbing/test_write_user_details_iostub.py,7,11,15,Number of Words;Short Identifier Name
+InputStub,tdd/iostubbing/test_write_user_details_iostub.py,9,6,15,Capitalisation Anomaly
+object,tdd/iostubbing/test_write_user_details_iostub.py,9,16,22,Number of Words;Short Identifier Name
+__init__,tdd/iostubbing/test_write_user_details_iostub.py,10,8,16,Consecutive Underscores;External Underscores;Number of Words;Short Identifier Name
+self,tdd/iostubbing/test_write_user_details_iostub.py,10,17,21,Number of Words;Short Identifier Name
+values,tdd/iostubbing/test_write_user_details_iostub.py,10,23,29,Number of Words;Short Identifier Name
+self,tdd/iostubbing/test_write_user_details_iostub.py,11,8,12,Number of Words;Short Identifier Name
+values,tdd/iostubbing/test_write_user_details_iostub.py,11,13,19,Number of Words;Short Identifier Name
+values,tdd/iostubbing/test_write_user_details_iostub.py,11,22,28,Number of Words;Short Identifier Name
+self,tdd/iostubbing/test_write_user_details_iostub.py,12,8,12,Number of Words;Short Identifier Name
+cnt,tdd/iostubbing/test_write_user_details_iostub.py,12,13,16,Number of Words;Short Identifier Name
+readline,tdd/iostubbing/test_write_user_details_iostub.py,14,8,16,Number of Words;Short Identifier Name
+self,tdd/iostubbing/test_write_user_details_iostub.py,14,17,21,Number of Words;Short Identifier Name
+self,tdd/iostubbing/test_write_user_details_iostub.py,15,11,15,Number of Words;Short Identifier Name
+cnt,tdd/iostubbing/test_write_user_details_iostub.py,15,16,19,Number of Words;Short Identifier Name
+len,tdd/iostubbing/test_write_user_details_iostub.py,15,22,25,Number of Words;Short Identifier Name
+self,tdd/iostubbing/test_write_user_details_iostub.py,15,26,30,Number of Words;Short Identifier Name
+values,tdd/iostubbing/test_write_user_details_iostub.py,15,31,37,Number of Words;Short Identifier Name
+ret_val,tdd/iostubbing/test_write_user_details_iostub.py,16,12,19,Number of Words;Short Identifier Name
+self,tdd/iostubbing/test_write_user_details_iostub.py,16,22,26,Number of Words;Short Identifier Name
+values,tdd/iostubbing/test_write_user_details_iostub.py,16,27,33,Number of Words;Short Identifier Name
+self,tdd/iostubbing/test_write_user_details_iostub.py,16,34,38,Number of Words;Short Identifier Name
+cnt,tdd/iostubbing/test_write_user_details_iostub.py,16,39,42,Number of Words;Short Identifier Name
+self,tdd/iostubbing/test_write_user_details_iostub.py,17,12,16,Number of Words;Short Identifier Name
+cnt,tdd/iostubbing/test_write_user_details_iostub.py,17,17,20,Number of Words;Short Identifier Name
+ret_val,tdd/iostubbing/test_write_user_details_iostub.py,18,19,26,Number of Words;Short Identifier Name
+StopError,tdd/iostubbing/test_write_user_details_iostub.py,20,18,27,Capitalisation Anomaly
+OutputStub,tdd/iostubbing/test_write_user_details_iostub.py,22,6,16,Capitalisation Anomaly
+object,tdd/iostubbing/test_write_user_details_iostub.py,22,17,23,Number of Words;Short Identifier Name
+__init__,tdd/iostubbing/test_write_user_details_iostub.py,23,8,16,Consecutive Underscores;External Underscores;Number of Words;Short Identifier Name
+self,tdd/iostubbing/test_write_user_details_iostub.py,23,17,21,Number of Words;Short Identifier Name
+self,tdd/iostubbing/test_write_user_details_iostub.py,24,8,12,Number of Words;Short Identifier Name
+values,tdd/iostubbing/test_write_user_details_iostub.py,24,13,19,Number of Words;Short Identifier Name
+write,tdd/iostubbing/test_write_user_details_iostub.py,26,8,13,Number of Words;Short Identifier Name
+self,tdd/iostubbing/test_write_user_details_iostub.py,26,14,18,Number of Words;Short Identifier Name
+value,tdd/iostubbing/test_write_user_details_iostub.py,26,20,25,Number of Words;Short Identifier Name
+self,tdd/iostubbing/test_write_user_details_iostub.py,27,8,12,Number of Words;Short Identifier Name
+values,tdd/iostubbing/test_write_user_details_iostub.py,27,13,19,Number of Words;Short Identifier Name
+append,tdd/iostubbing/test_write_user_details_iostub.py,27,20,26,Number of Words;Short Identifier Name
+value,tdd/iostubbing/test_write_user_details_iostub.py,27,27,32,Number of Words;Short Identifier Name
+close,tdd/iostubbing/test_write_user_details_iostub.py,29,8,13,Number of Words;Short Identifier Name
+self,tdd/iostubbing/test_write_user_details_iostub.py,29,14,18,Number of Words;Short Identifier Name
+self,tdd/iostubbing/test_write_user_details_iostub.py,30,8,12,Number of Words;Short Identifier Name
+closed,tdd/iostubbing/test_write_user_details_iostub.py,30,13,19,Number of Words;Short Identifier Name
+TestUserDetails,tdd/iostubbing/test_write_user_details_iostub.py,33,6,21,Capitalisation Anomaly
+unittest,tdd/iostubbing/test_write_user_details_iostub.py,33,22,30,Number of Words;Short Identifier Name
+TestCase,tdd/iostubbing/test_write_user_details_iostub.py,33,31,39,Capitalisation Anomaly
+test_output_file_contents,tdd/iostubbing/test_write_user_details_iostub.py,35,8,33,Number of Words
+self,tdd/iostubbing/test_write_user_details_iostub.py,35,34,38,Number of Words;Short Identifier Name
+values,tdd/iostubbing/test_write_user_details_iostub.py,36,8,14,Number of Words;Short Identifier Name
+output_stub,tdd/iostubbing/test_write_user_details_iostub.py,37,8,19,Number of Words
+OutputStub,tdd/iostubbing/test_write_user_details_iostub.py,37,22,32,Capitalisation Anomaly
+write_user_details,tdd/iostubbing/test_write_user_details_iostub.py,38,8,26,Number of Words
+open,tdd/iostubbing/test_write_user_details_iostub.py,38,27,31,Number of Words;Short Identifier Name
+gen_open_stub,tdd/iostubbing/test_write_user_details_iostub.py,38,34,47,Number of Words
+output_stub,tdd/iostubbing/test_write_user_details_iostub.py,38,48,59,Number of Words
+sys,tdd/iostubbing/test_write_user_details_iostub.py,39,8,11,Number of Words;Short Identifier Name
+stdin,tdd/iostubbing/test_write_user_details_iostub.py,39,12,17,Number of Words;Short Identifier Name
+InputStub,tdd/iostubbing/test_write_user_details_iostub.py,39,20,29,Capitalisation Anomaly
+values,tdd/iostubbing/test_write_user_details_iostub.py,39,30,36,Number of Words;Short Identifier Name
+write_user_details,tdd/iostubbing/test_write_user_details_iostub.py,40,8,26,Number of Words
+accept_and_write,tdd/iostubbing/test_write_user_details_iostub.py,40,27,43,Number of Words
+name,tdd/iostubbing/test_write_user_details_iostub.py,41,8,12,Number of Words;Short Identifier Name
+output_stub,tdd/iostubbing/test_write_user_details_iostub.py,41,15,26,Number of Words
+values,tdd/iostubbing/test_write_user_details_iostub.py,41,27,33,Number of Words;Short Identifier Name
+age,tdd/iostubbing/test_write_user_details_iostub.py,42,8,11,Number of Words;Short Identifier Name
+output_stub,tdd/iostubbing/test_write_user_details_iostub.py,42,14,25,Number of Words
+values,tdd/iostubbing/test_write_user_details_iostub.py,42,26,32,Number of Words;Short Identifier Name
+city,tdd/iostubbing/test_write_user_details_iostub.py,43,8,12,Number of Words;Short Identifier Name
+output_stub,tdd/iostubbing/test_write_user_details_iostub.py,43,15,26,Number of Words
+values,tdd/iostubbing/test_write_user_details_iostub.py,43,27,33,Number of Words;Short Identifier Name
+self,tdd/iostubbing/test_write_user_details_iostub.py,44,8,12,Number of Words;Short Identifier Name
+name,tdd/iostubbing/test_write_user_details_iostub.py,44,25,29,Number of Words;Short Identifier Name
+len,tdd/iostubbing/test_write_user_details_iostub.py,44,32,35,Number of Words;Short Identifier Name
+name,tdd/iostubbing/test_write_user_details_iostub.py,44,36,40,Number of Words;Short Identifier Name
+self,tdd/iostubbing/test_write_user_details_iostub.py,45,8,12,Number of Words;Short Identifier Name
+age,tdd/iostubbing/test_write_user_details_iostub.py,45,25,28,Number of Words;Short Identifier Name
+len,tdd/iostubbing/test_write_user_details_iostub.py,45,31,34,Number of Words;Short Identifier Name
+age,tdd/iostubbing/test_write_user_details_iostub.py,45,35,38,Number of Words;Short Identifier Name
+self,tdd/iostubbing/test_write_user_details_iostub.py,46,8,12,Number of Words;Short Identifier Name
+city,tdd/iostubbing/test_write_user_details_iostub.py,46,25,29,Number of Words;Short Identifier Name
+len,tdd/iostubbing/test_write_user_details_iostub.py,46,32,35,Number of Words;Short Identifier Name
+city,tdd/iostubbing/test_write_user_details_iostub.py,46,36,40,Number of Words;Short Identifier Name
+__name__,tdd/iostubbing/test_write_user_details_iostub.py,48,3,11,Consecutive Underscores;External Underscores;Number of Words;Short Identifier Name
+unittest,tdd/iostubbing/test_write_user_details_iostub.py,49,4,12,Number of Words;Short Identifier Name
+main,tdd/iostubbing/test_write_user_details_iostub.py,49,13,17,Number of Words;Short Identifier Name
+unittest,tdd/iostubbing/test_write_user_details_istub.py,0,7,15,Number of Words;Short Identifier Name
+write_user_details,tdd/iostubbing/test_write_user_details_istub.py,1,7,25,Number of Words
+sys,tdd/iostubbing/test_write_user_details_istub.py,2,7,10,Number of Words;Short Identifier Name
+InputStub,tdd/iostubbing/test_write_user_details_istub.py,4,6,15,Capitalisation Anomaly
+object,tdd/iostubbing/test_write_user_details_istub.py,4,16,22,Number of Words;Short Identifier Name
+__init__,tdd/iostubbing/test_write_user_details_istub.py,5,8,16,Consecutive Underscores;External Underscores;Number of Words;Short Identifier Name
+self,tdd/iostubbing/test_write_user_details_istub.py,5,17,21,Number of Words;Short Identifier Name
+values,tdd/iostubbing/test_write_user_details_istub.py,5,23,29,Number of Words;Short Identifier Name
+self,tdd/iostubbing/test_write_user_details_istub.py,6,8,12,Number of Words;Short Identifier Name
+values,tdd/iostubbing/test_write_user_details_istub.py,6,13,19,Number of Words;Short Identifier Name
+values,tdd/iostubbing/test_write_user_details_istub.py,6,22,28,Number of Words;Short Identifier Name
+self,tdd/iostubbing/test_write_user_details_istub.py,7,8,12,Number of Words;Short Identifier Name
+cnt,tdd/iostubbing/test_write_user_details_istub.py,7,13,16,Number of Words;Short Identifier Name
+readline,tdd/iostubbing/test_write_user_details_istub.py,9,8,16,Number of Words;Short Identifier Name
+self,tdd/iostubbing/test_write_user_details_istub.py,9,17,21,Number of Words;Short Identifier Name
+self,tdd/iostubbing/test_write_user_details_istub.py,10,11,15,Number of Words;Short Identifier Name
+cnt,tdd/iostubbing/test_write_user_details_istub.py,10,16,19,Number of Words;Short Identifier Name
+len,tdd/iostubbing/test_write_user_details_istub.py,10,22,25,Number of Words;Short Identifier Name
+self,tdd/iostubbing/test_write_user_details_istub.py,10,26,30,Number of Words;Short Identifier Name
+values,tdd/iostubbing/test_write_user_details_istub.py,10,31,37,Number of Words;Short Identifier Name
+ret_val,tdd/iostubbing/test_write_user_details_istub.py,11,12,19,Number of Words;Short Identifier Name
+self,tdd/iostubbing/test_write_user_details_istub.py,11,22,26,Number of Words;Short Identifier Name
+values,tdd/iostubbing/test_write_user_details_istub.py,11,27,33,Number of Words;Short Identifier Name
+self,tdd/iostubbing/test_write_user_details_istub.py,11,34,38,Number of Words;Short Identifier Name
+cnt,tdd/iostubbing/test_write_user_details_istub.py,11,39,42,Number of Words;Short Identifier Name
+self,tdd/iostubbing/test_write_user_details_istub.py,12,12,16,Number of Words;Short Identifier Name
+cnt,tdd/iostubbing/test_write_user_details_istub.py,12,17,20,Number of Words;Short Identifier Name
+ret_val,tdd/iostubbing/test_write_user_details_istub.py,13,19,26,Number of Words;Short Identifier Name
+StopError,tdd/iostubbing/test_write_user_details_istub.py,15,18,27,Capitalisation Anomaly
+TestUserDetails,tdd/iostubbing/test_write_user_details_istub.py,17,6,21,Capitalisation Anomaly
+unittest,tdd/iostubbing/test_write_user_details_istub.py,17,22,30,Number of Words;Short Identifier Name
+TestCase,tdd/iostubbing/test_write_user_details_istub.py,17,31,39,Capitalisation Anomaly
+test_output_file_contents,tdd/iostubbing/test_write_user_details_istub.py,19,8,33,Number of Words
+self,tdd/iostubbing/test_write_user_details_istub.py,19,34,38,Number of Words;Short Identifier Name
+values,tdd/iostubbing/test_write_user_details_istub.py,20,8,14,Number of Words;Short Identifier Name
+sys,tdd/iostubbing/test_write_user_details_istub.py,21,8,11,Number of Words;Short Identifier Name
+stdin,tdd/iostubbing/test_write_user_details_istub.py,21,12,17,Number of Words;Short Identifier Name
+InputStub,tdd/iostubbing/test_write_user_details_istub.py,21,20,29,Capitalisation Anomaly
+values,tdd/iostubbing/test_write_user_details_istub.py,21,30,36,Number of Words;Short Identifier Name
+write_user_details,tdd/iostubbing/test_write_user_details_istub.py,22,8,26,Number of Words
+accept_and_write,tdd/iostubbing/test_write_user_details_istub.py,22,27,43,Number of Words
+fp,tdd/iostubbing/test_write_user_details_istub.py,23,8,10,Number of Words;Short Identifier Name
+open,tdd/iostubbing/test_write_user_details_istub.py,23,13,17,Number of Words;Short Identifier Name
+name,tdd/iostubbing/test_write_user_details_istub.py,24,8,12,Number of Words;Short Identifier Name
+fp,tdd/iostubbing/test_write_user_details_istub.py,24,15,17,Number of Words;Short Identifier Name
+readline,tdd/iostubbing/test_write_user_details_istub.py,24,18,26,Number of Words;Short Identifier Name
+age,tdd/iostubbing/test_write_user_details_istub.py,25,8,11,Number of Words;Short Identifier Name
+fp,tdd/iostubbing/test_write_user_details_istub.py,25,14,16,Number of Words;Short Identifier Name
+readline,tdd/iostubbing/test_write_user_details_istub.py,25,17,25,Number of Words;Short Identifier Name
+city,tdd/iostubbing/test_write_user_details_istub.py,26,8,12,Number of Words;Short Identifier Name
+fp,tdd/iostubbing/test_write_user_details_istub.py,26,15,17,Number of Words;Short Identifier Name
+readline,tdd/iostubbing/test_write_user_details_istub.py,26,18,26,Number of Words;Short Identifier Name
+self,tdd/iostubbing/test_write_user_details_istub.py,27,8,12,Number of Words;Short Identifier Name
+name,tdd/iostubbing/test_write_user_details_istub.py,27,25,29,Number of Words;Short Identifier Name
+len,tdd/iostubbing/test_write_user_details_istub.py,27,32,35,Number of Words;Short Identifier Name
+name,tdd/iostubbing/test_write_user_details_istub.py,27,36,40,Number of Words;Short Identifier Name
+self,tdd/iostubbing/test_write_user_details_istub.py,28,8,12,Number of Words;Short Identifier Name
+age,tdd/iostubbing/test_write_user_details_istub.py,28,25,28,Number of Words;Short Identifier Name
+len,tdd/iostubbing/test_write_user_details_istub.py,28,31,34,Number of Words;Short Identifier Name
+age,tdd/iostubbing/test_write_user_details_istub.py,28,35,38,Number of Words;Short Identifier Name
+self,tdd/iostubbing/test_write_user_details_istub.py,29,8,12,Number of Words;Short Identifier Name
+city,tdd/iostubbing/test_write_user_details_istub.py,29,25,29,Number of Words;Short Identifier Name
+len,tdd/iostubbing/test_write_user_details_istub.py,29,32,35,Number of Words;Short Identifier Name
+city,tdd/iostubbing/test_write_user_details_istub.py,29,36,40,Number of Words;Short Identifier Name
+__name__,tdd/iostubbing/test_write_user_details_istub.py,31,3,11,Consecutive Underscores;External Underscores;Number of Words;Short Identifier Name
+unittest,tdd/iostubbing/test_write_user_details_istub.py,32,4,12,Number of Words;Short Identifier Name
+main,tdd/iostubbing/test_write_user_details_istub.py,32,13,17,Number of Words;Short Identifier Name
+unittest,tdd/iostubbing/test_write_user_details_mock.py,0,7,15,Number of Words;Short Identifier Name
+write_user_details_di,tdd/iostubbing/test_write_user_details_mock.py,1,7,28,Number of Words
+sys,tdd/iostubbing/test_write_user_details_mock.py,2,7,10,Number of Words;Short Identifier Name
+pymock,tdd/iostubbing/test_write_user_details_mock.py,3,7,13,Number of Words;Short Identifier Name
+TestUserDetails,tdd/iostubbing/test_write_user_details_mock.py,5,6,21,Capitalisation Anomaly
+pymock,tdd/iostubbing/test_write_user_details_mock.py,5,22,28,Number of Words;Short Identifier Name
+PyMockTestCase,tdd/iostubbing/test_write_user_details_mock.py,5,29,43,Capitalisation Anomaly
+test_output_file_contents,tdd/iostubbing/test_write_user_details_mock.py,7,8,33,Number of Words
+self,tdd/iostubbing/test_write_user_details_mock.py,7,34,38,Number of Words;Short Identifier Name
+raw_input_provider,tdd/iostubbing/test_write_user_details_mock.py,9,8,26,Number of Words
+self,tdd/iostubbing/test_write_user_details_mock.py,9,29,33,Number of Words;Short Identifier Name
+mock,tdd/iostubbing/test_write_user_details_mock.py,9,34,38,Number of Words;Short Identifier Name
+mock_raw_input,tdd/iostubbing/test_write_user_details_mock.py,10,8,22,Number of Words
+raw_input_provider,tdd/iostubbing/test_write_user_details_mock.py,10,25,43,Number of Words
+raw_input,tdd/iostubbing/test_write_user_details_mock.py,10,44,53,Number of Words
+self,tdd/iostubbing/test_write_user_details_mock.py,11,8,12,Number of Words;Short Identifier Name
+mock_raw_input,tdd/iostubbing/test_write_user_details_mock.py,11,29,43,Number of Words
+self,tdd/iostubbing/test_write_user_details_mock.py,12,8,12,Number of Words;Short Identifier Name
+mock_raw_input,tdd/iostubbing/test_write_user_details_mock.py,12,29,43,Number of Words
+self,tdd/iostubbing/test_write_user_details_mock.py,13,8,12,Number of Words;Short Identifier Name
+mock_raw_input,tdd/iostubbing/test_write_user_details_mock.py,13,29,43,Number of Words
+mock_opener_interface,tdd/iostubbing/test_write_user_details_mock.py,16,8,29,Number of Words
+self,tdd/iostubbing/test_write_user_details_mock.py,16,32,36,Number of Words;Short Identifier Name
+mock,tdd/iostubbing/test_write_user_details_mock.py,16,37,41,Number of Words;Short Identifier Name
+mock_file,tdd/iostubbing/test_write_user_details_mock.py,17,8,17,Number of Words
+self,tdd/iostubbing/test_write_user_details_mock.py,17,20,24,Number of Words;Short Identifier Name
+mock,tdd/iostubbing/test_write_user_details_mock.py,17,25,29,Number of Words;Short Identifier Name
+self,tdd/iostubbing/test_write_user_details_mock.py,18,8,12,Number of Words;Short Identifier Name
+mock_opener_interface,tdd/iostubbing/test_write_user_details_mock.py,18,29,50,Number of Words
+open,tdd/iostubbing/test_write_user_details_mock.py,18,51,55,Number of Words;Short Identifier Name
+mock_file,tdd/iostubbing/test_write_user_details_mock.py,18,73,82,Number of Words
+mock_file,tdd/iostubbing/test_write_user_details_mock.py,19,8,17,Number of Words
+write,tdd/iostubbing/test_write_user_details_mock.py,19,18,23,Number of Words;Short Identifier Name
+mock_file,tdd/iostubbing/test_write_user_details_mock.py,20,8,17,Number of Words
+write,tdd/iostubbing/test_write_user_details_mock.py,20,18,23,Number of Words;Short Identifier Name
+mock_file,tdd/iostubbing/test_write_user_details_mock.py,21,8,17,Number of Words
+write,tdd/iostubbing/test_write_user_details_mock.py,21,18,23,Number of Words;Short Identifier Name
+mock_file,tdd/iostubbing/test_write_user_details_mock.py,22,8,17,Number of Words
+close,tdd/iostubbing/test_write_user_details_mock.py,22,18,23,Number of Words;Short Identifier Name
+self,tdd/iostubbing/test_write_user_details_mock.py,25,8,12,Number of Words;Short Identifier Name
+replay,tdd/iostubbing/test_write_user_details_mock.py,25,13,19,Number of Words;Short Identifier Name
+write_user_details_di,tdd/iostubbing/test_write_user_details_mock.py,28,8,29,Number of Words
+accept_and_write,tdd/iostubbing/test_write_user_details_mock.py,28,30,46,Number of Words
+iproxy,tdd/iostubbing/test_write_user_details_mock.py,28,47,53,Number of Words;Short Identifier Name
+raw_input_provider,tdd/iostubbing/test_write_user_details_mock.py,28,54,72,Number of Words
+raw_input,tdd/iostubbing/test_write_user_details_mock.py,28,73,82,Number of Words
+opener,tdd/iostubbing/test_write_user_details_mock.py,28,84,90,Number of Words;Short Identifier Name
+mock_opener_interface,tdd/iostubbing/test_write_user_details_mock.py,28,91,112,Number of Words
+open,tdd/iostubbing/test_write_user_details_mock.py,28,113,117,Number of Words;Short Identifier Name
+self,tdd/iostubbing/test_write_user_details_mock.py,31,8,12,Number of Words;Short Identifier Name
+verify,tdd/iostubbing/test_write_user_details_mock.py,31,13,19,Number of Words;Short Identifier Name
+__name__,tdd/iostubbing/test_write_user_details_mock.py,34,3,11,Consecutive Underscores;External Underscores;Number of Words;Short Identifier Name
+unittest,tdd/iostubbing/test_write_user_details_mock.py,35,4,12,Number of Words;Short Identifier Name
+main,tdd/iostubbing/test_write_user_details_mock.py,35,13,17,Number of Words;Short Identifier Name
+accept_and_write,tdd/iostubbing/write_user_details.py,5,4,20,Number of Words
+name,tdd/iostubbing/write_user_details.py,6,4,8,Number of Words;Short Identifier Name
+raw_input,tdd/iostubbing/write_user_details.py,6,11,20,Number of Words
+age,tdd/iostubbing/write_user_details.py,7,4,7,Number of Words;Short Identifier Name
+raw_input,tdd/iostubbing/write_user_details.py,7,10,19,Number of Words
+city,tdd/iostubbing/write_user_details.py,8,4,8,Number of Words;Short Identifier Name
+raw_input,tdd/iostubbing/write_user_details.py,8,11,20,Number of Words
+fp,tdd/iostubbing/write_user_details.py,10,4,6,Number of Words;Short Identifier Name
+open,tdd/iostubbing/write_user_details.py,10,9,13,Number of Words;Short Identifier Name
+name,tdd/iostubbing/write_user_details.py,10,14,18,Number of Words;Short Identifier Name
+fp,tdd/iostubbing/write_user_details.py,11,4,6,Number of Words;Short Identifier Name
+write,tdd/iostubbing/write_user_details.py,11,7,12,Number of Words;Short Identifier Name
+name,tdd/iostubbing/write_user_details.py,11,29,33,Number of Words;Short Identifier Name
+fp,tdd/iostubbing/write_user_details.py,12,4,6,Number of Words;Short Identifier Name
+write,tdd/iostubbing/write_user_details.py,12,7,12,Number of Words;Short Identifier Name
+age,tdd/iostubbing/write_user_details.py,12,28,31,Number of Words;Short Identifier Name
+fp,tdd/iostubbing/write_user_details.py,13,4,6,Number of Words;Short Identifier Name
+write,tdd/iostubbing/write_user_details.py,13,7,12,Number of Words;Short Identifier Name
+city,tdd/iostubbing/write_user_details.py,13,29,33,Number of Words;Short Identifier Name
+fp,tdd/iostubbing/write_user_details.py,14,4,6,Number of Words;Short Identifier Name
+close,tdd/iostubbing/write_user_details.py,14,7,12,Number of Words;Short Identifier Name
+__name__,tdd/iostubbing/write_user_details.py,16,3,11,Consecutive Underscores;External Underscores;Number of Words;Short Identifier Name
+accept_and_write,tdd/iostubbing/write_user_details.py,17,4,20,Number of Words
+InputProxy,tdd/iostubbing/write_user_details_di.py,5,6,16,Capitalisation Anomaly
+raw_input,tdd/iostubbing/write_user_details_di.py,6,8,17,Number of Words
+self,tdd/iostubbing/write_user_details_di.py,6,18,22,Number of Words;Short Identifier Name
+msg,tdd/iostubbing/write_user_details_di.py,6,24,27,Number of Words;Short Identifier Name
+raw_input,tdd/iostubbing/write_user_details_di.py,7,15,24,Number of Words
+msg,tdd/iostubbing/write_user_details_di.py,7,25,28,Number of Words;Short Identifier Name
+accept_and_write,tdd/iostubbing/write_user_details_di.py,10,4,20,Number of Words
+iproxy,tdd/iostubbing/write_user_details_di.py,10,21,27,Number of Words;Short Identifier Name
+raw_input,tdd/iostubbing/write_user_details_di.py,10,28,37,Number of Words
+opener,tdd/iostubbing/write_user_details_di.py,10,39,45,Number of Words;Short Identifier Name
+open,tdd/iostubbing/write_user_details_di.py,10,46,50,Number of Words;Short Identifier Name
+name,tdd/iostubbing/write_user_details_di.py,11,4,8,Number of Words;Short Identifier Name
+iproxy,tdd/iostubbing/write_user_details_di.py,11,11,17,Number of Words;Short Identifier Name
+age,tdd/iostubbing/write_user_details_di.py,12,4,7,Number of Words;Short Identifier Name
+iproxy,tdd/iostubbing/write_user_details_di.py,12,10,16,Number of Words;Short Identifier Name
+city,tdd/iostubbing/write_user_details_di.py,13,4,8,Number of Words;Short Identifier Name
+iproxy,tdd/iostubbing/write_user_details_di.py,13,11,17,Number of Words;Short Identifier Name
+fp,tdd/iostubbing/write_user_details_di.py,15,4,6,Number of Words;Short Identifier Name
+opener,tdd/iostubbing/write_user_details_di.py,15,9,15,Number of Words;Short Identifier Name
+name,tdd/iostubbing/write_user_details_di.py,15,16,20,Number of Words;Short Identifier Name
+fp,tdd/iostubbing/write_user_details_di.py,16,4,6,Number of Words;Short Identifier Name
+write,tdd/iostubbing/write_user_details_di.py,16,7,12,Number of Words;Short Identifier Name
+name,tdd/iostubbing/write_user_details_di.py,16,29,33,Number of Words;Short Identifier Name
+fp,tdd/iostubbing/write_user_details_di.py,17,4,6,Number of Words;Short Identifier Name
+write,tdd/iostubbing/write_user_details_di.py,17,7,12,Number of Words;Short Identifier Name
+age,tdd/iostubbing/write_user_details_di.py,17,28,31,Number of Words;Short Identifier Name
+fp,tdd/iostubbing/write_user_details_di.py,18,4,6,Number of Words;Short Identifier Name
+write,tdd/iostubbing/write_user_details_di.py,18,7,12,Number of Words;Short Identifier Name
+city,tdd/iostubbing/write_user_details_di.py,18,29,33,Number of Words;Short Identifier Name
+fp,tdd/iostubbing/write_user_details_di.py,19,4,6,Number of Words;Short Identifier Name
+close,tdd/iostubbing/write_user_details_di.py,19,7,12,Number of Words;Short Identifier Name
+os,tdd/transformations/MailerProg.py,0,7,9,Number of Words;Short Identifier Name
+re,tdd/transformations/MailerProg.py,1,7,9,Number of Words;Short Identifier Name
+get_all_msgs,tdd/transformations/MailerProg.py,12,4,16,Number of Words
+msgs,tdd/transformations/MailerProg.py,13,4,8,Number of Words;Short Identifier Name
+msg_file_names,tdd/transformations/MailerProg.py,14,4,18,Number of Words
+find_msg_files,tdd/transformations/MailerProg.py,14,21,35,Number of Words
+msg_file_name,tdd/transformations/MailerProg.py,15,8,21,Number of Words
+msg_file_names,tdd/transformations/MailerProg.py,15,25,39,Number of Words
+msgs,tdd/transformations/MailerProg.py,16,8,12,Number of Words;Short Identifier Name
+append,tdd/transformations/MailerProg.py,16,13,19,Number of Words;Short Identifier Name
+parse_msg_file,tdd/transformations/MailerProg.py,16,20,34,Number of Words
+msg_file_name,tdd/transformations/MailerProg.py,16,35,48,Number of Words
+msgs,tdd/transformations/MailerProg.py,17,11,15,Number of Words;Short Identifier Name
+find_msg_files,tdd/transformations/MailerProg.py,19,4,18,Number of Words
+d,tdd/transformations/MailerProg.py,19,19,20,Number of Words
+f,tdd/transformations/MailerProg.py,20,12,13,Number of Words;Short Identifier Name
+f,tdd/transformations/MailerProg.py,20,18,19,Number of Words;Short Identifier Name
+os,tdd/transformations/MailerProg.py,20,23,25,Number of Words;Short Identifier Name
+listdir,tdd/transformations/MailerProg.py,20,26,33,Number of Words;Short Identifier Name
+d,tdd/transformations/MailerProg.py,20,34,35,Number of Words
+f,tdd/transformations/MailerProg.py,20,40,41,Number of Words;Short Identifier Name
+endswith,tdd/transformations/MailerProg.py,20,42,50,Number of Words;Short Identifier Name
+parse_msg_file,tdd/transformations/MailerProg.py,22,4,18,Number of Words
+fname,tdd/transformations/MailerProg.py,22,19,24,Number of Words;Short Identifier Name
+fp,tdd/transformations/MailerProg.py,23,4,6,Number of Words;Short Identifier Name
+open,tdd/transformations/MailerProg.py,23,9,13,Number of Words;Short Identifier Name
+fname,tdd/transformations/MailerProg.py,23,14,19,Number of Words;Short Identifier Name
+reading_body,tdd/transformations/MailerProg.py,24,4,16,Number of Words
+ffrom,tdd/transformations/MailerProg.py,25,4,9,Number of Words;Short Identifier Name
+to,tdd/transformations/MailerProg.py,26,4,6,Number of Words;Short Identifier Name
+cc,tdd/transformations/MailerProg.py,27,4,6,Number of Words;Short Identifier Name
+tstamp,tdd/transformations/MailerProg.py,28,4,10,Number of Words;Short Identifier Name
+mime,tdd/transformations/MailerProg.py,29,4,8,Number of Words;Short Identifier Name
+body,tdd/transformations/MailerProg.py,30,4,8,Number of Words;Short Identifier Name
+line,tdd/transformations/MailerProg.py,31,8,12,Number of Words;Short Identifier Name
+fp,tdd/transformations/MailerProg.py,31,16,18,Number of Words;Short Identifier Name
+readlines,tdd/transformations/MailerProg.py,31,19,28,Number of Words
+reading_body,tdd/transformations/MailerProg.py,32,11,23,Number of Words
+body,tdd/transformations/MailerProg.py,33,12,16,Number of Words;Short Identifier Name
+line,tdd/transformations/MailerProg.py,33,20,24,Number of Words;Short Identifier Name
+line,tdd/transformations/MailerProg.py,35,15,19,Number of Words;Short Identifier Name
+startswith,tdd/transformations/MailerProg.py,35,20,30,Number of Words
+to,tdd/transformations/MailerProg.py,36,16,18,Number of Words;Short Identifier Name
+line,tdd/transformations/MailerProg.py,36,21,25,Number of Words;Short Identifier Name
+len,tdd/transformations/MailerProg.py,36,26,29,Number of Words;Short Identifier Name
+to,tdd/transformations/MailerProg.py,37,16,18,Number of Words;Short Identifier Name
+__remove_newline_chars,tdd/transformations/MailerProg.py,37,21,43,Consecutive Underscores;Number of Words
+to,tdd/transformations/MailerProg.py,37,44,46,Number of Words;Short Identifier Name
+line,tdd/transformations/MailerProg.py,38,17,21,Number of Words;Short Identifier Name
+startswith,tdd/transformations/MailerProg.py,38,22,32,Number of Words
+ffrom,tdd/transformations/MailerProg.py,39,16,21,Number of Words;Short Identifier Name
+line,tdd/transformations/MailerProg.py,39,24,28,Number of Words;Short Identifier Name
+len,tdd/transformations/MailerProg.py,39,29,32,Number of Words;Short Identifier Name
+ffrom,tdd/transformations/MailerProg.py,40,16,21,Number of Words;Short Identifier Name
+__remove_newline_chars,tdd/transformations/MailerProg.py,40,24,46,Consecutive Underscores;Number of Words
+ffrom,tdd/transformations/MailerProg.py,40,47,52,Number of Words;Short Identifier Name
+line,tdd/transformations/MailerProg.py,41,17,21,Number of Words;Short Identifier Name
+startswith,tdd/transformations/MailerProg.py,41,22,32,Number of Words
+cc,tdd/transformations/MailerProg.py,42,16,18,Number of Words;Short Identifier Name
+line,tdd/transformations/MailerProg.py,42,21,25,Number of Words;Short Identifier Name
+len,tdd/transformations/MailerProg.py,42,26,29,Number of Words;Short Identifier Name
+cc,tdd/transformations/MailerProg.py,43,16,18,Number of Words;Short Identifier Name
+__remove_newline_chars,tdd/transformations/MailerProg.py,43,21,43,Consecutive Underscores;Number of Words
+cc,tdd/transformations/MailerProg.py,43,44,46,Number of Words;Short Identifier Name
+line,tdd/transformations/MailerProg.py,44,17,21,Number of Words;Short Identifier Name
+startswith,tdd/transformations/MailerProg.py,44,22,32,Number of Words
+tstamp,tdd/transformations/MailerProg.py,45,16,22,Number of Words;Short Identifier Name
+line,tdd/transformations/MailerProg.py,45,25,29,Number of Words;Short Identifier Name
+len,tdd/transformations/MailerProg.py,45,30,33,Number of Words;Short Identifier Name
+tstamp,tdd/transformations/MailerProg.py,46,16,22,Number of Words;Short Identifier Name
+__remove_newline_chars,tdd/transformations/MailerProg.py,46,25,47,Consecutive Underscores;Number of Words
+tstamp,tdd/transformations/MailerProg.py,46,48,54,Number of Words;Short Identifier Name
+line,tdd/transformations/MailerProg.py,47,17,21,Number of Words;Short Identifier Name
+startswith,tdd/transformations/MailerProg.py,47,22,32,Number of Words
+mime,tdd/transformations/MailerProg.py,48,16,20,Number of Words;Short Identifier Name
+line,tdd/transformations/MailerProg.py,48,23,27,Number of Words;Short Identifier Name
+len,tdd/transformations/MailerProg.py,48,28,31,Number of Words;Short Identifier Name
+mime,tdd/transformations/MailerProg.py,49,16,20,Number of Words;Short Identifier Name
+__remove_newline_chars,tdd/transformations/MailerProg.py,49,23,45,Consecutive Underscores;Number of Words
+mime,tdd/transformations/MailerProg.py,49,46,50,Number of Words;Short Identifier Name
+line,tdd/transformations/MailerProg.py,50,17,21,Number of Words;Short Identifier Name
+startswith,tdd/transformations/MailerProg.py,50,22,32,Number of Words
+reading_body,tdd/transformations/MailerProg.py,51,16,28,Number of Words
+Msg,tdd/transformations/MailerProg.py,53,11,14,Capitalisation Anomaly
+to,tdd/transformations/MailerProg.py,53,15,17,Number of Words;Short Identifier Name
+to,tdd/transformations/MailerProg.py,53,18,20,Number of Words;Short Identifier Name
+ffrom,tdd/transformations/MailerProg.py,53,22,27,Number of Words;Short Identifier Name
+ffrom,tdd/transformations/MailerProg.py,53,28,33,Number of Words;Short Identifier Name
+cc,tdd/transformations/MailerProg.py,53,35,37,Number of Words;Short Identifier Name
+cc,tdd/transformations/MailerProg.py,53,38,40,Number of Words;Short Identifier Name
+tstamp,tdd/transformations/MailerProg.py,53,42,48,Number of Words;Short Identifier Name
+tstamp,tdd/transformations/MailerProg.py,53,49,55,Number of Words;Short Identifier Name
+mime,tdd/transformations/MailerProg.py,53,57,61,Number of Words;Short Identifier Name
+mime,tdd/transformations/MailerProg.py,53,62,66,Number of Words;Short Identifier Name
+body,tdd/transformations/MailerProg.py,53,68,72,Number of Words;Short Identifier Name
+body,tdd/transformations/MailerProg.py,53,73,77,Number of Words;Short Identifier Name
+__remove_newline_chars,tdd/transformations/MailerProg.py,55,4,26,Consecutive Underscores;Number of Words
+s,tdd/transformations/MailerProg.py,55,27,28,Number of Words;Short Identifier Name
+s,tdd/transformations/MailerProg.py,56,4,5,Number of Words;Short Identifier Name
+s,tdd/transformations/MailerProg.py,56,8,9,Number of Words;Short Identifier Name
+replace,tdd/transformations/MailerProg.py,56,10,17,Number of Words;Short Identifier Name
+s,tdd/transformations/MailerProg.py,57,4,5,Number of Words;Short Identifier Name
+s,tdd/transformations/MailerProg.py,57,8,9,Number of Words;Short Identifier Name
+replace,tdd/transformations/MailerProg.py,57,10,17,Number of Words;Short Identifier Name
+s,tdd/transformations/MailerProg.py,58,11,12,Number of Words;Short Identifier Name
+Msg,tdd/transformations/MailerProg.py,60,6,9,Capitalisation Anomaly
+object,tdd/transformations/MailerProg.py,60,10,16,Number of Words;Short Identifier Name
+__init__,tdd/transformations/MailerProg.py,61,8,16,Consecutive Underscores;External Underscores;Number of Words;Short Identifier Name
+self,tdd/transformations/MailerProg.py,61,17,21,Number of Words;Short Identifier Name
+ffrom,tdd/transformations/MailerProg.py,61,23,28,Number of Words;Short Identifier Name
+to,tdd/transformations/MailerProg.py,61,33,35,Number of Words;Short Identifier Name
+cc,tdd/transformations/MailerProg.py,61,40,42,Number of Words;Short Identifier Name
+tstamp,tdd/transformations/MailerProg.py,61,47,53,Number of Words;Short Identifier Name
+mime,tdd/transformations/MailerProg.py,61,58,62,Number of Words;Short Identifier Name
+body,tdd/transformations/MailerProg.py,61,67,71,Number of Words;Short Identifier Name
+self,tdd/transformations/MailerProg.py,62,8,12,Number of Words;Short Identifier Name
+ffrom,tdd/transformations/MailerProg.py,62,13,18,Number of Words;Short Identifier Name
+ffrom,tdd/transformations/MailerProg.py,62,21,26,Number of Words;Short Identifier Name
+self,tdd/transformations/MailerProg.py,63,8,12,Number of Words;Short Identifier Name
+to,tdd/transformations/MailerProg.py,63,13,15,Number of Words;Short Identifier Name
+self,tdd/transformations/MailerProg.py,64,8,12,Number of Words;Short Identifier Name
+cc,tdd/transformations/MailerProg.py,64,13,15,Number of Words;Short Identifier Name
+self,tdd/transformations/MailerProg.py,65,8,12,Number of Words;Short Identifier Name
+tstamp,tdd/transformations/MailerProg.py,65,13,19,Number of Words;Short Identifier Name
+tstamp,tdd/transformations/MailerProg.py,65,22,28,Number of Words;Short Identifier Name
+self,tdd/transformations/MailerProg.py,66,8,12,Number of Words;Short Identifier Name
+mime,tdd/transformations/MailerProg.py,66,13,17,Number of Words;Short Identifier Name
+mime,tdd/transformations/MailerProg.py,66,20,24,Number of Words;Short Identifier Name
+self,tdd/transformations/MailerProg.py,67,8,12,Number of Words;Short Identifier Name
+body,tdd/transformations/MailerProg.py,67,13,17,Number of Words;Short Identifier Name
+body,tdd/transformations/MailerProg.py,67,20,24,Number of Words;Short Identifier Name
+self,tdd/transformations/MailerProg.py,68,8,12,Number of Words;Short Identifier Name
+to,tdd/transformations/MailerProg.py,68,13,15,Number of Words;Short Identifier Name
+re,tdd/transformations/MailerProg.py,68,18,20,Number of Words;Short Identifier Name
+split,tdd/transformations/MailerProg.py,68,21,26,Number of Words;Short Identifier Name
+to,tdd/transformations/MailerProg.py,68,35,37,Number of Words;Short Identifier Name
+self,tdd/transformations/MailerProg.py,69,17,21,Number of Words;Short Identifier Name
+to,tdd/transformations/MailerProg.py,69,22,24,Number of Words;Short Identifier Name
+self,tdd/transformations/MailerProg.py,70,12,16,Number of Words;Short Identifier Name
+to,tdd/transformations/MailerProg.py,70,17,19,Number of Words;Short Identifier Name
+remove,tdd/transformations/MailerProg.py,70,20,26,Number of Words;Short Identifier Name
+self,tdd/transformations/MailerProg.py,71,8,12,Number of Words;Short Identifier Name
+cc,tdd/transformations/MailerProg.py,71,13,15,Number of Words;Short Identifier Name
+re,tdd/transformations/MailerProg.py,71,18,20,Number of Words;Short Identifier Name
+split,tdd/transformations/MailerProg.py,71,21,26,Number of Words;Short Identifier Name
+cc,tdd/transformations/MailerProg.py,71,35,37,Number of Words;Short Identifier Name
+self,tdd/transformations/MailerProg.py,72,17,21,Number of Words;Short Identifier Name
+cc,tdd/transformations/MailerProg.py,72,22,24,Number of Words;Short Identifier Name
+self,tdd/transformations/MailerProg.py,73,12,16,Number of Words;Short Identifier Name
+cc,tdd/transformations/MailerProg.py,73,17,19,Number of Words;Short Identifier Name
+remove,tdd/transformations/MailerProg.py,73,20,26,Number of Words;Short Identifier Name
+__str__,tdd/transformations/MailerProg.py,75,8,15,Consecutive Underscores;External Underscores;Number of Words;Short Identifier Name
+self,tdd/transformations/MailerProg.py,75,16,20,Number of Words;Short Identifier Name
+self,tdd/transformations/MailerProg.py,82,15,19,Number of Words;Short Identifier Name
+ffrom,tdd/transformations/MailerProg.py,82,20,25,Number of Words;Short Identifier Name
+self,tdd/transformations/MailerProg.py,82,27,31,Number of Words;Short Identifier Name
+to,tdd/transformations/MailerProg.py,82,32,34,Number of Words;Short Identifier Name
+self,tdd/transformations/MailerProg.py,82,36,40,Number of Words;Short Identifier Name
+cc,tdd/transformations/MailerProg.py,82,41,43,Number of Words;Short Identifier Name
+self,tdd/transformations/MailerProg.py,82,45,49,Number of Words;Short Identifier Name
+mime,tdd/transformations/MailerProg.py,82,50,54,Number of Words;Short Identifier Name
+self,tdd/transformations/MailerProg.py,82,56,60,Number of Words;Short Identifier Name
+tstamp,tdd/transformations/MailerProg.py,82,61,67,Number of Words;Short Identifier Name
+self,tdd/transformations/MailerProg.py,82,69,73,Number of Words;Short Identifier Name
+body,tdd/transformations/MailerProg.py,82,74,78,Number of Words;Short Identifier Name
+__name__,tdd/transformations/MailerProg.py,87,17,25,Consecutive Underscores;External Underscores;Number of Words;Short Identifier Name
+find_msg_files,tdd/transformations/MailerProg.py,88,10,24,Number of Words
+xml,tdd/transformations/Msg2Xml.py,0,5,8,Number of Words;Short Identifier Name
+etree,tdd/transformations/Msg2Xml.py,0,9,14,Number of Words;Short Identifier Name
+ElementTree,tdd/transformations/Msg2Xml.py,0,15,26,Capitalisation Anomaly
+Element,tdd/transformations/Msg2Xml.py,0,34,41,Capitalisation Anomaly
+SubElement,tdd/transformations/Msg2Xml.py,0,43,53,Capitalisation Anomaly
+Comment,tdd/transformations/Msg2Xml.py,0,55,62,Capitalisation Anomaly
+tostring,tdd/transformations/Msg2Xml.py,0,64,72,Number of Words;Short Identifier Name
+top,tdd/transformations/Msg2Xml.py,2,0,3,Number of Words;Short Identifier Name
+Element,tdd/transformations/Msg2Xml.py,2,6,13,Capitalisation Anomaly
+comment,tdd/transformations/Msg2Xml.py,4,0,7,Number of Words;Short Identifier Name
+Comment,tdd/transformations/Msg2Xml.py,4,10,17,Capitalisation Anomaly
+top,tdd/transformations/Msg2Xml.py,5,0,3,Number of Words;Short Identifier Name
+append,tdd/transformations/Msg2Xml.py,5,4,10,Number of Words;Short Identifier Name
+comment,tdd/transformations/Msg2Xml.py,5,11,18,Number of Words;Short Identifier Name
+child,tdd/transformations/Msg2Xml.py,7,0,5,Number of Words;Short Identifier Name
+SubElement,tdd/transformations/Msg2Xml.py,7,8,18,Capitalisation Anomaly
+top,tdd/transformations/Msg2Xml.py,7,19,22,Number of Words;Short Identifier Name
+child,tdd/transformations/Msg2Xml.py,8,0,5,Number of Words;Short Identifier Name
+text,tdd/transformations/Msg2Xml.py,8,6,10,Number of Words;Short Identifier Name
+child_with_tail,tdd/transformations/Msg2Xml.py,10,0,15,Number of Words
+SubElement,tdd/transformations/Msg2Xml.py,10,18,28,Capitalisation Anomaly
+top,tdd/transformations/Msg2Xml.py,10,29,32,Number of Words;Short Identifier Name
+child_with_tail,tdd/transformations/Msg2Xml.py,11,0,15,Number of Words
+text,tdd/transformations/Msg2Xml.py,11,16,20,Number of Words;Short Identifier Name
+child_with_tail,tdd/transformations/Msg2Xml.py,12,0,15,Number of Words
+tail,tdd/transformations/Msg2Xml.py,12,16,20,Number of Words;Short Identifier Name
+child_with_entity_ref,tdd/transformations/Msg2Xml.py,14,0,21,Number of Words
+SubElement,tdd/transformations/Msg2Xml.py,14,24,34,Capitalisation Anomaly
+top,tdd/transformations/Msg2Xml.py,14,35,38,Number of Words;Short Identifier Name
+child_with_entity_ref,tdd/transformations/Msg2Xml.py,15,0,21,Number of Words
+text,tdd/transformations/Msg2Xml.py,15,22,26,Number of Words;Short Identifier Name
+tostring,tdd/transformations/Msg2Xml.py,17,6,14,Number of Words;Short Identifier Name
+top,tdd/transformations/Msg2Xml.py,17,15,18,Number of Words;Short Identifier Name
+unittest,tdd/transformations/TestMailerProg.py,0,7,15,Number of Words;Short Identifier Name
+MailerProg,tdd/transformations/TestMailerProg.py,1,7,17,Capitalisation Anomaly
+os,tdd/transformations/TestMailerProg.py,2,7,9,Number of Words;Short Identifier Name
+TestMailerProg,tdd/transformations/TestMailerProg.py,4,6,20,Capitalisation Anomaly
+unittest,tdd/transformations/TestMailerProg.py,4,21,29,Number of Words;Short Identifier Name
+TestCase,tdd/transformations/TestMailerProg.py,4,30,38,Capitalisation Anomaly
+setUp,tdd/transformations/TestMailerProg.py,6,8,13,Short Identifier Name
+self,tdd/transformations/TestMailerProg.py,6,14,18,Number of Words;Short Identifier Name
+super,tdd/transformations/TestMailerProg.py,7,8,13,Number of Words;Short Identifier Name
+TestMailerProg,tdd/transformations/TestMailerProg.py,7,14,28,Capitalisation Anomaly
+self,tdd/transformations/TestMailerProg.py,7,30,34,Number of Words;Short Identifier Name
+setUp,tdd/transformations/TestMailerProg.py,7,36,41,Short Identifier Name
+tearDown,tdd/transformations/TestMailerProg.py,9,8,16,Short Identifier Name
+self,tdd/transformations/TestMailerProg.py,9,17,21,Number of Words;Short Identifier Name
+super,tdd/transformations/TestMailerProg.py,10,8,13,Number of Words;Short Identifier Name
+TestMailerProg,tdd/transformations/TestMailerProg.py,10,14,28,Capitalisation Anomaly
+self,tdd/transformations/TestMailerProg.py,10,30,34,Number of Words;Short Identifier Name
+tearDown,tdd/transformations/TestMailerProg.py,10,36,44,Short Identifier Name
+test_find_msg_files,tdd/transformations/TestMailerProg.py,12,8,27,Number of Words
+self,tdd/transformations/TestMailerProg.py,12,28,32,Number of Words;Short Identifier Name
+fqn,tdd/transformations/TestMailerProg.py,13,8,11,Number of Words;Short Identifier Name
+os,tdd/transformations/TestMailerProg.py,13,14,16,Number of Words;Short Identifier Name
+path,tdd/transformations/TestMailerProg.py,13,17,21,Number of Words;Short Identifier Name
+abspath,tdd/transformations/TestMailerProg.py,13,22,29,Number of Words;Short Identifier Name
+__file__,tdd/transformations/TestMailerProg.py,13,30,38,Consecutive Underscores;External Underscores;Number of Words;Short Identifier Name
+msg_files,tdd/transformations/TestMailerProg.py,14,8,17,Number of Words
+MailerProg,tdd/transformations/TestMailerProg.py,14,20,30,Capitalisation Anomaly
+find_msg_files,tdd/transformations/TestMailerProg.py,14,31,45,Number of Words
+fqn,tdd/transformations/TestMailerProg.py,14,46,49,Number of Words;Short Identifier Name
+fqn,tdd/transformations/TestMailerProg.py,14,52,55,Number of Words;Short Identifier Name
+rfind,tdd/transformations/TestMailerProg.py,14,56,61,Number of Words;Short Identifier Name
+self,tdd/transformations/TestMailerProg.py,15,8,12,Number of Words;Short Identifier Name
+len,tdd/transformations/TestMailerProg.py,15,28,31,Number of Words;Short Identifier Name
+msg_files,tdd/transformations/TestMailerProg.py,15,32,41,Number of Words
+self,tdd/transformations/TestMailerProg.py,16,8,12,Number of Words;Short Identifier Name
+msg_files,tdd/transformations/TestMailerProg.py,16,40,49,Number of Words
+self,tdd/transformations/TestMailerProg.py,17,8,12,Number of Words;Short Identifier Name
+msg_files,tdd/transformations/TestMailerProg.py,17,40,49,Number of Words
+self,tdd/transformations/TestMailerProg.py,18,8,12,Number of Words;Short Identifier Name
+msg_files,tdd/transformations/TestMailerProg.py,18,40,49,Number of Words
+self,tdd/transformations/TestMailerProg.py,19,8,12,Number of Words;Short Identifier Name
+msg_files,tdd/transformations/TestMailerProg.py,19,40,49,Number of Words
+self,tdd/transformations/TestMailerProg.py,20,8,12,Number of Words;Short Identifier Name
+msg_files,tdd/transformations/TestMailerProg.py,20,40,49,Number of Words
+test_parse_msg_file,tdd/transformations/TestMailerProg.py,22,8,27,Number of Words
+self,tdd/transformations/TestMailerProg.py,22,28,32,Number of Words;Short Identifier Name
+fqn,tdd/transformations/TestMailerProg.py,23,8,11,Number of Words;Short Identifier Name
+os,tdd/transformations/TestMailerProg.py,23,14,16,Number of Words;Short Identifier Name
+path,tdd/transformations/TestMailerProg.py,23,17,21,Number of Words;Short Identifier Name
+abspath,tdd/transformations/TestMailerProg.py,23,22,29,Number of Words;Short Identifier Name
+__file__,tdd/transformations/TestMailerProg.py,23,30,38,Consecutive Underscores;External Underscores;Number of Words;Short Identifier Name
+curr_dir,tdd/transformations/TestMailerProg.py,24,8,16,Number of Words;Short Identifier Name
+fqn,tdd/transformations/TestMailerProg.py,24,19,22,Number of Words;Short Identifier Name
+fqn,tdd/transformations/TestMailerProg.py,24,25,28,Number of Words;Short Identifier Name
+rfind,tdd/transformations/TestMailerProg.py,24,29,34,Number of Words;Short Identifier Name
+msg,tdd/transformations/TestMailerProg.py,25,8,11,Number of Words;Short Identifier Name
+MailerProg,tdd/transformations/TestMailerProg.py,25,14,24,Capitalisation Anomaly
+parse_msg_file,tdd/transformations/TestMailerProg.py,25,25,39,Number of Words
+os,tdd/transformations/TestMailerProg.py,25,40,42,Number of Words;Short Identifier Name
+path,tdd/transformations/TestMailerProg.py,25,43,47,Number of Words;Short Identifier Name
+join,tdd/transformations/TestMailerProg.py,25,48,52,Number of Words;Short Identifier Name
+curr_dir,tdd/transformations/TestMailerProg.py,25,53,61,Number of Words;Short Identifier Name
+self,tdd/transformations/TestMailerProg.py,26,8,12,Number of Words;Short Identifier Name
+msg,tdd/transformations/TestMailerProg.py,26,25,28,Number of Words;Short Identifier Name
+to,tdd/transformations/TestMailerProg.py,26,29,31,Number of Words;Short Identifier Name
+__name__,tdd/transformations/TestMailerProg.py,29,3,11,Consecutive Underscores;External Underscores;Number of Words;Short Identifier Name
+unittest,tdd/transformations/TestMailerProg.py,30,4,12,Number of Words;Short Identifier Name
+main,tdd/transformations/TestMailerProg.py,30,13,17,Number of Words;Short Identifier Name
+urllib2,tdd/transformations/VerifyServers.py,0,7,14,Number of Words;Short Identifier Name
+servers,tdd/transformations/VerifyServers.py,2,0,7,Number of Words;Short Identifier Name
+server,tdd/transformations/VerifyServers.py,4,4,10,Number of Words;Short Identifier Name
+servers,tdd/transformations/VerifyServers.py,4,14,21,Number of Words;Short Identifier Name
+urllib,tdd/transformations/VerifyServers.py,6,8,14,Number of Words;Short Identifier Name
+urlopen,tdd/transformations/VerifyServers.py,6,15,22,Number of Words;Short Identifier Name
+server,tdd/transformations/VerifyServers.py,6,23,29,Number of Words;Short Identifier Name
+urllib2,tdd/transformations/VerifyServers.py,7,11,18,Number of Words;Short Identifier Name
+HTTPError,tdd/transformations/VerifyServers.py,7,19,28,Capitalisation Anomaly
+e,tdd/transformations/VerifyServers.py,7,30,31,Number of Words
+send_mail,tdd/transformations/VerifyServers.py,8,8,17,Number of Words
+e,tdd/transformations/VerifyServers.py,8,18,19,Number of Words
+urllib2,tdd/transformations/VerifyServers.py,9,11,18,Number of Words;Short Identifier Name
+URLError,tdd/transformations/VerifyServers.py,9,19,27,Capitalisation Anomaly
+e,tdd/transformations/VerifyServers.py,9,29,30,Number of Words
+send_mail,tdd/transformations/VerifyServers.py,10,8,17,Number of Words
+e,tdd/transformations/VerifyServers.py,10,18,19,Number of Words
+send_mail,tdd/transformations/VerifyServers.py,12,4,13,Number of Words
+e,tdd/transformations/VerifyServers.py,12,14,15,Number of Words
